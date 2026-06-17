@@ -1,0 +1,16 @@
+# Coquille antivie
+
+VO: Antilife Shell
+niveau: 5
+ecole: abjuration
+incantation: 1 action
+portee: perso (rayon de 3 m)
+rituel: No
+source: Player´s Handbook (SRD)
+url: https://www.aidedd.org/dnd/sorts.php?vf=coquille-antivie
+description: Une barrière scintillante émane de vous dans un rayon de 3 mètres et se déplace avec vous, restant centrée autour de vous et bloquant les créatures autres que celles de type mort-vivant ou artificiel. La barrière reste en place pour toute la durée du sort.
+La barrière empêche les créatures affectées de pénétrer ou de traverser la zone. Une créature affectée peut lancer des sorts ou effectuer des attaques avec des armes à distance ou des armes à allonge au travers de la barrière.
+Si vous vous déplacez de sorte qu'une créature affectée est obligée de passer au travers de la barrière, le sort prend fin.
+classes: [[Druide]]
+composantes_multi: S, V
+duree: concentration, jusqu'à 1 heure

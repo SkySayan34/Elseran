@@ -1,0 +1,15 @@
+# Fouet mental de Tasha
+
+VO: Tasha's Mind Whip
+niveau: 2
+ecole: enchantement
+incantation: 1 action
+portee: 27 m
+rituel: No
+source: Tasha´s Cauldron of Everything
+url: https://www.aidedd.org/dnd/sorts.php?vf=fouet-mental-de-tasha
+description: Vous fouettez psychiquement l'esprit d'une créature que vous pouvez voir à portée du sort. La cible doit effectuer un jet de sauvegarde d'Intelligence. En cas d'échec, elle subit 3d6 dégâts psychiques et elle ne peut utiliser sa réaction avant la fin de son prochain tour. De plus, lors de son prochain tour, elle devra choisir si elle effectue un mouvement, une action ou une action bonus ; elle ne pourra effectuer que l'un des trois. En cas réussite, la cible ne subit que la moitié de ces dégâts et n'est affectée par aucun des autres effets du sort.
+. Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement supérieur au niveau 2. Les créatures doivent être à 9 mètres ou moins les unes des autres lorsque vous les ciblez.
+classes: Ensorceleur, Magicien
+composantes_multi: V
+duree: 1 round

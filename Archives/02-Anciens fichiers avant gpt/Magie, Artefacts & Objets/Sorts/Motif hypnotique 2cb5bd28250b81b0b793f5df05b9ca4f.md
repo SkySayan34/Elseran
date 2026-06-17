@@ -1,0 +1,16 @@
+# Motif hypnotique
+
+VO: Hypnotic Pattern
+niveau: 3
+ecole: illusion
+incantation: 1 action
+portee: 36 m
+rituel: No
+source: Player´s Handbook (SRD)
+url: https://www.aidedd.org/dnd/sorts.php?vf=motif-hypnotique
+description: : S, M (un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une substance phosphorescente)
+Vous créez des lueurs de couleurs changeantes qui emplissent les airs dans un cube de 9 mètres d'arête à portée. Les lueurs apparaissent pendant un moment et disparaissent. Chaque créature dans la zone d'effet qui voit les lueurs doit faire un jet de sauvegarde de Sagesse. Si elle échoue, la créature est charmée pour la durée du sort. Tant qu'elle est charmée par ce sort, la créature est incapable d'agir et a une vitesse égale à 0. Le sort prend fin pour une créature charmée si elle subit des dégâts ou si quelqu'un d'autre utilise son action pour la secouer et la sortir de sa torpeur.
+classes: Barde, Ensorceleur, Magicien
+composantes_multi: M, S
+materiel: un bâtonnet d'encens incandescent ou une fiole de cristal remplie d'une substance phosphorescente
+duree: concentration, jusqu'à 1 minute

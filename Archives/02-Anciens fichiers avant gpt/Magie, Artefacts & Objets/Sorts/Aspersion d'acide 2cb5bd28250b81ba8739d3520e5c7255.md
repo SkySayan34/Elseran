@@ -1,0 +1,15 @@
+# Aspersion d'acide
+
+VO: Acid Splash
+niveau: 0
+ecole: invocation
+incantation: 1 action
+portee: 18 m
+rituel: No
+source: Player´s Handbook (SRD)
+url: https://www.aidedd.org/dnd/sorts.php?vf=aspersion-d-acide
+description: Vous propulsez une bulle d'acide. Choisissez une ou deux créatures que vous pouvez voir, à 1,50 mètre ou moins l'une de l'autre, dans la portée du sort. La cible doit réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts d'acide.
+Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).
+classes: Ensorceleur, Magicien
+composantes_multi: S, V
+duree: instantanée

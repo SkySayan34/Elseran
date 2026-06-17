@@ -1,0 +1,14 @@
+# Rayonnement écoeurant
+
+VO: Sickening Radiance
+niveau: 4
+ecole: évocation
+incantation: 1 action
+portee: 36 m
+rituel: No
+source: Xanathar´s Guide to Everything
+url: https://www.aidedd.org/dnd/sorts.php?vf=rayonnement-ecoeurant
+description: Une lumière tamisée et verdâtre se propage dans une sphère de 9 mètres de rayon centrée sur un point que vous choisissez à portée. La lumière se propage autour des angles et dure jusqu'à la fin du sort. Lorsqu'une créature entre dans la zone du sort pour la première fois pendant un tour ou y commence son tour, elle doit réussir un jet de sauvegarde de Constitution ou subir 4d10 dégâts radiants. Elle subit alors aussi un niveau d'épuisement et émet une faible lumière verdâtre dans un rayon de 1,50 mètre. Cette lumière empêche la créature d'être invisible. La lumière et tous les niveaux d'épuisement causés par ce sort disparaissent lorsque le sort se termine.
+classes: Ensorceleur, Magicien
+composantes_multi: S, V
+duree: concentration, jusqu'à 10 minutes

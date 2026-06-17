@@ -1,0 +1,17 @@
+# Nuée de boules de neige de Snilloc
+
+VO: Snilloc's Snowball Swarm
+niveau: 2
+ecole: évocation
+incantation: 1 action
+portee: 27 m
+rituel: No
+source: Xanathar´s Guide to Everything
+url: https://www.aidedd.org/dnd/sorts.php?vf=nuee-de-boules-de-neige-de-snilloc
+description: : V, S, M (un morceau de glace ou un petit morceau de roche blanc)
+Une rafale de boules de neige magiques apparait à un point que vous choisissez à portée. Chaque créature dans une sphère de 1,50 mètre de rayon centré sur ce point doit faire faire un jet de sauvegarde de Dextérité. Une créature subit 3d6 dégâts de froid en cas d'échec, ou la moitié de ces dégâts en cas de réussite.
+. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 2.
+classes: Ensorceleur, Magicien
+composantes_multi: M, S, V
+materiel: un morceau de glace ou un petit morceau de roche blanc
+duree: instantanée

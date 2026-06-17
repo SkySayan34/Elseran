@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "search",
+    "text": "Recherche toutes les notes concernant les Titans et les Dieux Fondateurs d'Elseran dans la cosmologie"
+  },
+  {
+    "icon": "file-plus",
+    "text": "Crée une synthèse de la Guerre des Racines et du Serment des Racines en te basant sur les Chroniques Sylvestres"
+  },
+  {
+    "icon": "sparkles",
+    "text": "Génère une fiche détaillée pour un nouveau PNJ Archidruide résidant à Oakhaven"
+  },
+  {
+    "icon": "folder-tree",
+    "text": "Propose un plan de classement pour organiser les centaines de fiches du dossier Magie, Artefacts et Objets"
+  }
+]

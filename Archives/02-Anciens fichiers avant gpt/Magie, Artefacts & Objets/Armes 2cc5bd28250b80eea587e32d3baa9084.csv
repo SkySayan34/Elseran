@@ -1,0 +1,53 @@
+﻿Armes,Dégats,Poids,Prix,Propriétés,Type,VO,Prix en pc
+Bâton,1d6 contondant,2 kg,2 pa,Polyvalente (1d8),"Cac, Courante",Quarterstaff,20
+Dague,1d4 perforant,500 g,2 po,"Finesse, légère, lancer (portée 6
+  m/18 m)","Cac, Courante",Dagger,200
+Gourdin,1d4 contondant,1 kg,1 pa,Légère,"Cac, Courante",Club,10
+Hachette,1d6 tranchant,1 kg,5 po,"Légère, lancer (portée 6 m/18 m)","Cac, Courante",Handaxe,500
+Javeline,1d6 perforant,1 kg,5 pa,Lancer (portée 9 m/36 m),"Cac, Courante",Javelin,50
+Lance,1d6 perforant,"1,5 kg",1 po,"Lancer (portée 6 m/18 m),
+  polyvalente (1d8)","Cac, Courante",Spear,100
+Marteau léger,1d4 contondant,1 kg,2 po,"Légère, lancer (portée 6 m/18 m)","Cac, Courante",Light hammer,200
+Masse d'armes,1d6 contondant,2 kg,5 po,-,"Cac, Courante",Mace,500
+Massue,1d8 contondant,5 kg,2 pa,À deux mains,"Cac, Courante",Greatclub,20
+Serpe,1d4 tranchant,1 kg,1 po,Légère,"Cac, Courante",Sickle,100
+"Arbalète
+  légère",1d8 perforant,"2,5 kg",25 po,"Munitions (portée 24 m/96 m),
+  chargement, à deux mains","Courante, Range","Crossbow, light",2500
+"Arc
+  court",1d6 perforant,1 kg,25 po,"Munitions (portée 24 m/96 m), à
+  deux mains","Courante, Range",Shortbow,2500
+Fléchette,1d4 perforant,100 g,5 pc,"Finesse, lancer (portée 6 m/18 m)","Courante, Range",Dart,5
+Fronde,1d4 contondant,-,1 pa,Munitions (portée 9 m/36 m),"Courante, Range",Sling,10
+Cimeterre,1d6 tranchant,"1,5 kg",25 po,"Finesse, légère","Cac, Martiale",Scimitar,2500
+Coutille,1d10 tranchant,3 kg,20 po,"Lourde, allonge, à deux mains","Cac, Martiale",Glaive,2000
+Épée à deux mains,2d6 tranchant,3 kg,50 po,"Lourde, à deux mains","Cac, Martiale",Greatsword,5000
+Épée courte,1d6 perforant,1 kg,10 po,"Finesse, légère","Cac, Martiale",Shortsword,1000
+Épée longue,1d8 tranchant,"1,5 kg",15 po,Polyvalente (1d10),"Cac, Martiale",Longsword,1500
+Fléau d'armes,1d8 contondant,1 kg,10 po,-,"Cac, Martiale",Flail,1000
+Fouet,1d4 tranchant,"1,5 kg",2 po,"Finesse, allonge","Cac, Martiale",Whip,200
+Hache à deux mains,1d12 tranchant,"3,5 kg",30 po,"Lourde, à deux mains","Cac, Martiale",Greataxe,3000
+Hache d'armes,1d8 tranchant,2 kg,10 po,Polyvalente (1d10),"Cac, Martiale",Battleaxe,1000
+Hallebarde,1d10 tranchant,3 kg,20 po,"Lourde, allonge, à deux mains","Cac, Martiale",Halberd,2000
+Lance d’arçon,1d12 perforant,3 kg,10 po,"Allonge, spécial","Cac, Martiale",Lance,1000
+Maillet,2d6 contondant,5 kg,10 po,"Lourde, à deux mains","Cac, Martiale",Maul,1000
+Marteau de guerre,1d8 contondant,1 kg,15 po,Polyvalente (1d10),"Cac, Martiale",Warhammer,1500
+Morgenstern,1d8 perforant,2 kg,15 po,-,"Cac, Martiale",Morningstar,1500
+"Pic
+  de guerre",1d8 perforant,1 kg,5 po,-,"Cac, Martiale",War pick,500
+Pique,1d10 perforant,9 kg,5 po,"Lourde, allonge, à deux mains","Cac, Martiale",Pike,500
+Rapière,1d8 perforant,1 kg,25 po,Finesse,"Cac, Martiale",Rapier,2500
+Trident,1d6 perforant,2 kg,5 po,"Lancer (portée 6 m/18 m),
+  polyvalente (1d8)","Cac, Martiale",Trident,500
+"Arbalète
+  de poing",1d6 perforant,"1,5 kg",75 po,"Munitions (portée 9 m/36 m),
+  légère, chargement","Martiale, Range","Crossbow, hand",7500
+Arbalète lourde,1d10 perforant,9 kg,50 po,"Munitions (portée 30 m/120 m),
+  lourde, chargement, à deux mains","Martiale, Range","Crossbow, heavy",5000
+"Arc
+  long",1d8 perforant,1 kg,50 po,"Munitions (portée 45 m/180 m),
+  lourde, à deux mains","Martiale, Range",Longbow,5000
+Filet,,"1,5 kg",1 po,"Spécial, lancer (portée 1,50 m/
+  4,50 m)","Martiale, Range",Net,100
+Sarbacane,1 perforant,500 g,10 po,"Munitions (portée 7,50 m/30 m),
+  chargement","Martiale, Range",Blowgun,1000

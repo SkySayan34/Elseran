@@ -1,0 +1,16 @@
+# Colonne de flamme
+
+VO: Flame Strike
+niveau: 5
+ecole: évocation
+incantation: 1 action
+portee: 18 m
+rituel: No
+source: Player´s Handbook (SRD)
+url: https://www.aidedd.org/dnd/sorts.php?vf=colonne-de-flamme
+description: Une colonne verticale de feu divin dévale des cieux vers un endroit que vous spécifiez dans la portée du sort. Chaque créature située dans un cylindre de 3 mètres de rayon et de 12 mètres de haut centré sur le point spécifié doit effectuer un jet de sauvegarde de Dextérité, subissant 4d6 dégâts de feu et 4d6 dégâts radiants en cas d'échec, ou la moitié de ces dégâts en cas de réussite.
+. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, les dégâts de feu ou les dégâts radiants (selon votre choix) sont augmentés de 1d6 pour chaque niveau d'emplacement au-delà du niveau 5.
+classes: Clerc
+composantes_multi: M, S, V
+materiel: une pincée de soufre
+duree: instantanée

@@ -1,0 +1,14 @@
+# Châtiment courroucé
+
+VO: Wrathful Smite
+niveau: 1
+ecole: évocation
+incantation: 1 action bonus
+portee: perso
+rituel: No
+source: Player´s Handbook
+url: https://www.aidedd.org/dnd/sorts.php?vf=chatiment-courrouce
+description: La prochaine fois que vous touchez une cible lors d'une attaque au corps à corps avec une arme pendant la durée du sort, votre attaque inflige 1d6 dégâts psychiques supplémentaires. De plus, si la cible est une créature, elle doit réussir un jet de sauvegarde de Sagesse ou être effrayée jusqu'à la fin du sort. Par une action, la créature peut effectuer un jet de Sagesse contre le DD de sauvegarde de votre sort pour mettre un terme à cet effet et au sort.
+classes: Paladin
+composantes_multi: V
+duree: concentration, jusqu'à 1 minute

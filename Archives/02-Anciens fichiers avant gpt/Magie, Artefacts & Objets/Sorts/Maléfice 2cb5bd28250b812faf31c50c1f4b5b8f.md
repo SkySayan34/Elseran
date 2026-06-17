@@ -1,0 +1,17 @@
+# Maléfice
+
+VO: Hex
+niveau: 1
+ecole: enchantement
+incantation: 1 action bonus
+portee: 27 m
+rituel: No
+source: Player´s Handbook (BR+)
+url: https://www.aidedd.org/dnd/sorts.php?vf=malefice
+description: Vous placez une malédiction sur une créature à portée que vous pouvez voir. Jusqu'à la fin du sort vous infligez 1d6 dégâts nécrotiques supplémentaires à la cible à chaque fois que vous la touchez lors d'une attaque. De plus, choisissez une caractéristique lorsque vous lancez le sort. La cible obtient un désavantage aux jets de caractéristique effectués avec la caractéristique en question.
+Si la cible tombe à 0 point de vie avant que le sort ne se termine, vous pouvez utiliser votre action bonus lors d'un tour suivant pour maudire une nouvelle créature.
+lancée sur la cible met fin au sort prématurément.
+. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou 4, vous pouvez maintenir votre concentration sur ce sort pendant 8 heures. Si vous utilisez un emplacement de sort de niveau 5 ou supérieur, vous pouvez maintenir votre concentration sur ce sort pendant 24 heures.
+composantes_multi: M, S, V
+materiel: l'œil pétrifié d'un triton
+duree: concentration, jusqu'à 1 heure

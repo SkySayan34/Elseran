@@ -1,0 +1,15 @@
+# Rayon de givre
+
+VO: Ray of Frost
+niveau: 0
+ecole: évocation
+incantation: 1 action
+portee: 18 m
+rituel: No
+source: Player´s Handbook (SRD)
+url: https://www.aidedd.org/dnd/sorts.php?vf=rayon-de-givre
+description: Un faisceau glacial de lumière bleuâtre se dirige vers une créature dans la portée du sort. Effectuez une attaque à distance avec un sort contre la cible. S'il touche, la cible subit 1d8 dégâts de froid et sa vitesse est réduite de 3 mètres jusqu'à début de votre prochain tour.
+Les dégâts du sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).
+classes: Ensorceleur, Magicien
+composantes_multi: S, V
+duree: instantanée

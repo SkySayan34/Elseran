@@ -1,0 +1,10 @@
+# Masse d'anéantissement
+
+type: Arme
+sous_type: masse d'armes
+rarete: rare
+necessite_lien: Yes
+source: Dungeon Master´s Guide (SRD)
+description: Quand vous frappez un fiélon ou un mort-vivant avec cette arme magique, cette créature subit 2d6 dégâts radiants supplémentaires. Si elle a 25 points de vie ou moins après avoir subi ces dégâts elle doit réussir un jet de sauvegarde de Sagesse DD 15 ou être détruite. En cas de réussite vous effrayez la créature jusqu'à la fin de votre prochain tour.
+Tant que vous tenez cette arme, elle émet une lumière vive dans un rayon de 6 mètres et une lumière faible sur 6 mètres supplémentaires.
+url: https://www.aidedd.org/dnd/om.php?vf=masse-d-aneantissement

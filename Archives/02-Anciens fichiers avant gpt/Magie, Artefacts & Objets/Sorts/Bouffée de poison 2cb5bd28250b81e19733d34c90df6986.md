@@ -1,0 +1,15 @@
+# Bouffée de poison
+
+VO: Poison Spray
+niveau: 0
+ecole: invocation
+incantation: 1 action
+portee: 3 m
+rituel: No
+source: Player´s Handbook (SRD)
+url: https://www.aidedd.org/dnd/sorts.php?vf=bouffee-de-poison
+description: Vous tendez votre paume vers une créature visible dans la portée du sort et vous projetez une bouffée de gaz nocif de votre main. La créature doit réussir un jet de sauvegarde de Constitution ou subir 1d12 dégâts de poison.
+Les dégâts de ce sort augmentent de 1d12 lorsque vous atteignez le niveau 5 (2d12), le niveau 11 (3d12) et le niveau 17 (4d12).
+classes: [[Druide]], Ensorceleur, Magicien
+composantes_multi: S, V
+duree: instantanée

@@ -1,0 +1,105 @@
+﻿Titre,Colonne 1,Colonne 2,Colonne 3,Colonne 4
+Objet,VO,Prix,Poids,Prix en pc
+Bélier portable,"Ram, Portable",4 po,"17,5 kg",400
+Acide (fiole),Acid,25 po,500 g,2500
+Antidote (fiole),Antitoxin,50 po,-,5000
+Balance de marchand,"Scale, Merchant’s",5 po,"1,5 kg",500
+Boite d'allume-feu,Tinderbox,5 pa,500 g,50
+Bouteille en verre,"Bottle, glass",2 po,1 kg,200
+Billes (sac de 1000),Ball Bearings,1 po,1 kg,100
+Bougie,Candle,1 pc,-,1
+Boulier,Abacus,2 po,1 kg,200
+Cadenas,Lock,10 po,500 g,1000
+Carquois,Quiver,1 po,500 g,100
+Chaîne (3 m),Chain,5 po,5 kg,500
+Couverture,Blanket,5 pa,"1,5 kg",50
+Craie (un morceau),Chalk,1 pc,-,1
+Cloche,Bell,1 po,-,100
+Chevalière,Signet ring,5 po,-,500
+Corde en soie (15 m),"Rope, silk",10 po,"2,5 kg",1000
+Chausse-trappes (sac de 20),Caltrops,1 po,1 kg,100
+Corde en chanvre (15 m),"Rope, hempen",1 po,5 kg,100
+Cruche ou pichet,Jug or pitcher,2 pc,2 kg,2
+Cire à cacheter,Sealing wax,5 pa,-,50
+Coffre,Chest,5 po,"12,5 kg",500
+Baguette d'if,Yew wand,10 po,500 g,1000
+Feu grégeois (flasque),Alchemist’s Fire,50 po,500 g,5000
+Focaliseur arcanique,,,,
+Encre (bouteille de 30 ml),Ink,10 po,-,1000
+Boule de cristal,Crystal,10 po,500 g,1000
+Flasque ou chope (50 cl),Flask,2 pc,500 g,2
+Échelle (3 m),Ladder,1 pa,"12,5 kg",10
+Fiole (10 cl),Vial,1 po,-,100
+Focaliseur druidique,,,,
+Eau bénite (flasque),Holy Water,25 po,500 g,2500
+Branche de gui,Sprig of mistletoe,1 po,-,100
+Orbe,Orb,20 po,"1,5 kg",2000
+Bâton,Wooden staff,5 po,2 kg,500
+Étui à cartes ou parchemins,"Case, Map or Scroll",1 po,500 g,100
+Sceptre,Rod,10 po,1 kg,1000
+Bâton,Staff,5 po,2 kg,500
+Baguette,Wand,10 po,500 g,1000
+Étui à carreaux,"Case, Crossbow Bolt",1 po,500 g,100
+Loupe,Magnifying Glass,100 po,-,10000
+Longue-vue,Spyglass,1000 po,500 g,100000
+Marteau de forgeron,"Hammer, sledge",2 po,5 kg,200
+Kit d’escalade,Climber’s Kit,25 po,6 kg,2500
+Lanterne à capote,"Lantern, hooded",5 po,1 kg,500
+Grappin,Grappling hook,2 po,2 kg,200
+Lampe,Lamp,5 pa,500 g,50
+Totem,Totem,1 po,-,100
+Lanterne sourde,"Lantern, bullseye",10 po,1 kg,1000
+Gourde (pleine),Waterskin,2 pa,"2,5 kg",20
+Huile (flasque),Oil,1 pa,500 g,10
+Livre,Book,25 po,"2,5 kg",2500
+Marteau,Hammer,1 po,"1,5 kg",100
+Grimoire,Spellbook,50 po,"1,5 kg",5000
+Gamelle,Mess Kit,2 pa,500 g,20
+Panier,Basket,4 pa,1 kg,40
+Palan,Block and tackle,1 po,"2,5 kg",100
+Papier (une feuille),Paper,2 pa,-,20
+Billes de fronde (20),Sling bullets,4 pc,750 g,4
+Piège à mâchoires,Hunting Trap,5 po,"12,5 kg",500
+Matériel de pêche,Fishing Tackle,1 po,2 kg,100
+Flèches (20),Arrows,1 po,500 g,100
+Menottes,Manacles,2 po,3 kg,200
+Munitions,,,,
+Pelle,Shovel,2 po,"2,5 kg",200
+Pied-de-biche,Crowbar,2 po,"2,5 kg",200
+Miroir en acier,"Mirror, steel",5 po,250 g,500
+Carreaux d'arbalète (20),Crossbow bolts,1 po,750 g,100
+Aiguilles de sarbacane (50),Blowgun needles,1 po,500 g,100
+Parfum (fiole),Perfum,5 po,-,500
+Perche (3 m),Pole,5 pc,"3,5 kg",5
+Parchemin (une feuille),Parchment,1 pa,-,10
+Pierre à aiguiser,Whetstone,1 pc,500 g,1
+Sacoche à composantes,Component Pouch,25 po,1 kg,2500
+Sac de couchage,Bedroll,1 po,"3,5 kg",100
+Plume d’écriture,Ink pen,2 pc,-,2
+Sablier,Hourglass,25 po,500 g,2500
+Sac à dos,Backpack,2 po,"2,5 kg",200
+Sacoche,Pouch,5 pa,500 g,50
+Pioche de mineur,"Pick, miner's",2 po,5 kg,200
+Potion de guérison,Potion of Healing,50 po,250 g,5000
+Rations (1 jour),Rations,5 pa,1 kg,50
+Pot en fer,"Pot, iron",2 po,5 kg,200
+Piton,Piton,5 pc,125 g,5
+Pointes en fer (10),"Spikes, iron",1 po,"2,5 kg",100
+Poison (fiole),Poison,100 po,-,10000
+Robes,Robes,1 po,2 kg,100
+Sac,Sack,1 pc,250 g,1
+Tonneau,Barrel,2 po,35 kg,200
+Symbole sacré,,,,
+Torche,Torch,1 pc,500 g,1
+Vêtements communs,"Clothes, common",5 pa,"1,5 kg",50
+Tente,Tent,2 po,10 kg,200
+Reliquaire,Reliquary,5 po,1 kg,500
+Savon,Soap,2 pc,-,2
+Seau,Bucket,5 pc,1 kg,5
+Amulette,Amulet,5 po,500 g,500
+Trousse de soins,Healer’s Kit,5 po,"1,5 kg",500
+Emblème,Emblem,5 po,-,500
+Sifflet,Signal whistle,5 pc,-,5
+Vêtements costumes,"Clothes, costume",5 po,2 kg,500
+Vêtements voyage,"Clothes, traveler’s",2 po,2 kg,200
+Vêtements fins,"Clothes, fine",15 po,3 kg,1500

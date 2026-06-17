@@ -1,0 +1,14 @@
+# Voie végétale
+
+VO: Transport via Plants
+niveau: 6
+ecole: invocation
+incantation: 1 action
+portee: 3 m
+rituel: No
+source: Player´s Handbook (SRD)
+url: https://www.aidedd.org/dnd/sorts.php?vf=voie-vegetale
+description: Ce sort crée un lien magique entre une plante inanimée de taille G ou supérieure se trouvant à portée et une autre plante pouvant se trouver n'importe où sur le même plan d'existence. Vous devez avoir déjà vu ou touché au moins une fois la plante de destination. Pour toute la durée du sort, n'importe quelle créature peut pénétrer dans la plante ciblée et en sortir par la plante de destination en utilisant 1,50 mètre de son mouvement.
+classes: [[Druide]]
+composantes_multi: S, V
+duree: 1 round

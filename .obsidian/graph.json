@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "-path : archives",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Géographie  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Histoire  ",
+      "color": {
+        "a": 1,
+        "rgb": 33274
+      }
+    },
+    {
+      "query": "path:PNJ  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Société  ",
+      "color": {
+        "a": 1,
+        "rgb": 9961707
+      }
+    },
+    {
+      "query": "path:Cosmologie  ",
+      "color": {
+        "a": 1,
+        "rgb": 14068060
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 0.891145833333333,
+  "lineSizeMultiplier": 1.5546875,
+  "collapse-forces": true,
+  "centerStrength": 0.65625,
+  "repelStrength": 12.5,
+  "linkStrength": 0.395833333333333,
+  "linkDistance": 148,
+  "scale": 0.7514829526494349,
+  "close": true
+}

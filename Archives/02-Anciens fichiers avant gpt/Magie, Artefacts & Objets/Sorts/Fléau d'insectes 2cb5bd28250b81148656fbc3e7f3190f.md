@@ -1,0 +1,18 @@
+# Fléau d'insectes
+
+VO: Insect Plague
+niveau: 5
+ecole: invocation
+incantation: 1 action
+portee: 90 m
+rituel: No
+source: Player´s Handbook (SRD)
+url: https://www.aidedd.org/dnd/sorts.php?vf=fleau-d-insectes
+description: : V, S, M (quelques cristaux de sucre, quelques grains de céréale et un peu de graisse)
+Une nuée de criquets bourdonnants occupent une sphère de 6 mètres de rayon centrée sur un point dans la portée du sort. La sphère s'étend au-delà des coins. La sphère persiste pour la durée du sort et la visibilité dans la zone est réduite. L'espace de la sphère est un terrain difficile.
+Lorsque la sphère apparait, chaque créature s'y trouvant doit effectuer un jet de sauvegarde de Constitution, subissant 4d10 dégâts perforants en cas d'échec, ou la moitié de ces dégâts en cas de réussite. Une créature doit aussi effectuer ce jet de sauvegarde lorsqu'elle pénètre dans l'espace du sort pour la première lors d'un tour ou lorsqu'elle y termine son tour.
+. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 5.
+classes: Clerc, [[Druide]], Ensorceleur
+composantes_multi: M, S, V
+materiel: quelques cristaux de sucre, quelques grains de céréale et un peu de graisse
+duree: concentration, jusqu'à 10 minutes

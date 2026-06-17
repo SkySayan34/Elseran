@@ -1,0 +1,14 @@
+﻿Armure,VO,CA,Force,Discrétion désavantagée,Poids,Prix,Type,Prix en pc
+Matelassée,Padded,11 + Mod.Dex,-,Yes,4 kg,5 po,légère,500
+Cuir,Leather,11 + Mod.Dex,-,No,5 kg,10 po,légère,1000
+Cuir clouté,Studded leather,12 + Mod.Dex,-,No,"6,5 kg",45 po,légère,4500
+Peaux,Hide,12 + Mod.Dex (max +2),-,No,6 kg,10 po,intérmédiaire,1000
+Chemise de mailles,Chain shirt,13 + Mod.Dex (max +2),-,No,10 kg,50 po,intérmédiaire,5000
+Écailles,Scale mail,14 + Mod.Dex (max +2),-,Yes,"22,5 kg",50 po,intérmédiaire,5000
+Cuirasse,Breastplate,14 + Mod.Dex (max +2),-,No,10 kg,400 po,intérmédiaire,40000
+Demi-plate,Half plate,15 + Mod.Dex (max +2),-,Yes,20 kg,750 po,intérmédiaire,75000
+Broigne,Ring mail,14,-,Yes,20 kg,30 po,lourde,3000
+Cotte de mailles,Chain mail,16,For 13,Yes,"27,5 kg",75 po,lourde,7500
+Clibanion,Splint,17,For 15,Yes,30 kg,200 po,lourde,20000
+Harnois,Plate,18,For 15,Yes,"32,5 kg",1500 po,lourde,150000
+Bouclier,Shield,2,-,No,3 kg,10 po,bouclier,1000

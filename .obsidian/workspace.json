@@ -1,0 +1,338 @@
+{
+  "main": {
+    "id": "12a97b647a9cbd02",
+    "type": "split",
+    "children": [
+      {
+        "id": "78f83eb9a7a027cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdc917931f46b930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PNJ/Sœur Sophie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sœur Sophie"
+            }
+          },
+          {
+            "id": "7e8d71343cc57fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PNJ/Eredi Saerel.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eredi Saerel"
+            }
+          },
+          {
+            "id": "388334f9fc33890e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PNJ/Eredi Saerel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eredi Saerel"
+            }
+          },
+          {
+            "id": "d9baf695289d0071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PNJ/Grognard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grognard"
+            }
+          },
+          {
+            "id": "7d08d1c31a33cc4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PNJ/Sorenza.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sorenza"
+            }
+          },
+          {
+            "id": "50a413b74186b677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PNJ/Valérian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Valérian"
+            }
+          },
+          {
+            "id": "0200ac76c768e613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Société/Ordre du Souffle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ordre du Souffle"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60bde972f7d0c118",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c53856013108262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98140c2ec7076ea9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "af9d88b6ce95e3d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "ff3a9951b9225021",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.50484466552734
+  },
+  "right": {
+    "id": "8ac5b554fd288c0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a120b1fab0ab435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d5103910d79a025",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Écorce-Haute.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Écorce-Haute"
+            }
+          },
+          {
+            "id": "6463180de534fb09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PNJ/Oakhaven.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de Oakhaven"
+            }
+          },
+          {
+            "id": "3a24446cf994cf1c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "ea8265370b365ffa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PNJ/Oakhaven.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Oakhaven"
+            }
+          },
+          {
+            "id": "67f1d955d588cb16",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "fantasy-statblocks-creature-pane"
+            }
+          },
+          {
+            "id": "9cae564fdffb94d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 445.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false,
+      "obisidian-note-linker:Note Linker": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "7e8d71343cc57fe7",
+  "lastOpenFiles": [
+    "Templates/Lieux.md",
+    "gemini-scribe/Scheduled-Tasks/desktop.ini",
+    "gemini-scribe/Background-Tasks/desktop.ini",
+    "Cosmologie/desktop.ini",
+    "PNJ/Grognard.md",
+    "Templates/Session.md",
+    "PNJ/Sœur Sophie.md",
+    "PNJ/Eredi Saerel.md",
+    "PNJ/Sorenza.md",
+    "PNJ/Valérian.md",
+    "Société/Ordre du Souffle.md",
+    "PNJ/Images Library/Valérian.jpg",
+    "PNJ/Images Library/Non confirmé 657616.crdownload",
+    "PNJ/Images Library/Soeur Sophie.jpg",
+    "PNJ/Images Library/Non confirmé 539753.crdownload",
+    "PNJ/Images Library/Grognard.jpg",
+    "PNJ/Images Library/Non confirmé 691669.crdownload",
+    "Chant des Cendres/Session 1.md",
+    "Société/Ordre Impérial de la Lumière.md",
+    "Chant des Cendres",
+    "PNJ/Sans titre",
+    "Archives/03 - En travail/Mirenfeld/Mirenfeld - Lieux d'Intérêt et Institutions v3.md",
+    "Géographie/Sylve d'Aerwyn/Mirenfeld/Écorce-Haute.md",
+    "Géographie/Sylve d'Aerwyn/Mirenfeld/Mir'Sylva.md",
+    "Géographie/Sylve d'Aerwyn/Mirenfeld",
+    "Géographie/Sylve d'Aerwyn/Sans titre.md",
+    "Templates/PNJ.md",
+    "PNJ/Zéphirae Anemoi.md",
+    "PNJ/Images Library/Eredi, de l'odre du souffle.png",
+    "Scribe du Souffle.md",
+    "PNJ/Images Library/Sorenza la tenanciere du chene vert.png",
+    "Templates/Société.md",
+    "Cosmologie/Myrrha - Déesse Fondatrice de la Mémoire et de la Magie.md",
+    "PNJ/Oakhaven.md",
+    "Géographie/Sylve d'Aerwyn/Sylve d'Aerwyn.md",
+    "Société/Images Library/Ordre du Souffle.png",
+    "Société/Images Library",
+    "Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld.md",
+    "Ordre du souffle.md",
+    "elfes]] [[gnomes.md",
+    "Société/Ordre du Souffle (brouillon).md",
+    "Géographie/Images Library/Ecorce-Haute.jpg",
+    "Géographie/Images Library/Monts d'Elseran.webp",
+    "PNJ/Images Library/Oakhaven.jpg",
+    "Géographie/Images Library/Mirenfeld  v2 - Copie.png",
+    "Sans titre 1.canvas",
+    "Sans titre.canvas"
+  ]
+}

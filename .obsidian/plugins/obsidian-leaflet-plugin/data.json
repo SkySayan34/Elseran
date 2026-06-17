@@ -1,0 +1,321 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1781290792569,
+      "markers": [
+        {
+          "id": "ID_d88b491be88b",
+          "type": "default",
+          "loc": [
+            -1.5201295840991096,
+            3.1153771515653093
+          ],
+          "link": "Mirenfeld",
+          "layer": "%5B%5BCarte_Elseran.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9abbe949ba4b",
+          "type": "default",
+          "loc": [
+            -1.1506809487455203,
+            3.4373257937240957
+          ],
+          "link": "Khor'Vélyss",
+          "layer": "%5B%5BCarte_Elseran.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7babe8bbc808",
+          "type": "default",
+          "loc": [
+            -2.225920074245211,
+            2.7380172324394985
+          ],
+          "link": "Anserah",
+          "layer": "%5B%5BCarte_Elseran.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Géographie/Elseran.md"
+      ]
+    },
+    {
+      "id": "leaflet-map-mirenfeld",
+      "lastAccessed": 1781301325393,
+      "markers": [
+        {
+          "id": "ID_2ad9281b0a49",
+          "type": "default",
+          "loc": [
+            -1.185447299377559,
+            0.682325732115548
+          ],
+          "link": "Écorce-Haute",
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f87b4babdbba",
+          "type": "default",
+          "loc": [
+            -0.8338823317279449,
+            0.6002929013699081
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_288b0a684b89",
+          "type": "default",
+          "loc": [
+            -0.6307559059748344,
+            0.6862320573891499
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab5a0bb8b929",
+          "type": "default",
+          "loc": [
+            -0.4549734221500273,
+            0.5104474200770643
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bfb386a79fa",
+          "type": "default",
+          "loc": [
+            -0.6424747382298216,
+            1.5104666901191508
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fad87aa8098b",
+          "type": "default",
+          "loc": [
+            -0.7518505059430348,
+            1.4128085582791032
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a998e829f83b",
+          "type": "default",
+          "loc": [
+            -0.845601163982932,
+            1.3620263297222786
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49897b0a9868",
+          "type": "default",
+          "loc": [
+            -0.5057550285883049,
+            1.6393754241480134
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a79680a795a",
+          "type": "default",
+          "loc": [
+            -0.5604429124449115,
+            2.1354787338954546
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18b92ba89baa",
+          "type": "default",
+          "loc": [
+            -0.6620061253214667,
+            2.2956380701131325
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9083afae899",
+          "type": "default",
+          "loc": [
+            -0.8612262736562482,
+            2.299544395386734
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8696b6ba969",
+          "type": "default",
+          "loc": [
+            -1.1502908026125978,
+            2.299544395386734
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a4ac8680a49",
+          "type": "default",
+          "loc": [
+            -1.2791979574174561,
+            1.4948413890247432
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Géographie/Sylve d'Aerwyn/Mirenfeld.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}
