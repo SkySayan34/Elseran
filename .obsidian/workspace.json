@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNJ/Eredi Saerel.md",
-                "mode": "preview",
+                "file": "Chant des Cendres/Session 1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eredi Saerel"
+              "title": "Session 1"
             }
           },
           {
@@ -226,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PNJ/Oakhaven.md",
+                "file": "Templates/PNJ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Oakhaven"
+              "title": "Plan de PNJ"
             }
           },
           {
@@ -261,7 +261,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -287,14 +287,18 @@
   },
   "active": "7e8d71343cc57fe7",
   "lastOpenFiles": [
+    "Templates/PNJ.md",
+    "Chant des Cendres/Session 1.md",
+    "PNJ/Grognard.md",
+    "PNJ/Myrr'Nhalion.md",
+    "Glossaire.md",
+    "PNJ/Eredi Saerel.md",
     "Templates/Lieux.md",
     "gemini-scribe/Scheduled-Tasks/desktop.ini",
     "gemini-scribe/Background-Tasks/desktop.ini",
     "Cosmologie/desktop.ini",
-    "PNJ/Grognard.md",
     "Templates/Session.md",
     "PNJ/Sœur Sophie.md",
-    "PNJ/Eredi Saerel.md",
     "PNJ/Sorenza.md",
     "PNJ/Valérian.md",
     "Société/Ordre du Souffle.md",
@@ -304,7 +308,6 @@
     "PNJ/Images Library/Non confirmé 539753.crdownload",
     "PNJ/Images Library/Grognard.jpg",
     "PNJ/Images Library/Non confirmé 691669.crdownload",
-    "Chant des Cendres/Session 1.md",
     "Société/Ordre Impérial de la Lumière.md",
     "Chant des Cendres",
     "PNJ/Sans titre",
@@ -313,7 +316,6 @@
     "Géographie/Sylve d'Aerwyn/Mirenfeld/Mir'Sylva.md",
     "Géographie/Sylve d'Aerwyn/Mirenfeld",
     "Géographie/Sylve d'Aerwyn/Sans titre.md",
-    "Templates/PNJ.md",
     "PNJ/Zéphirae Anemoi.md",
     "PNJ/Images Library/Eredi, de l'odre du souffle.png",
     "Scribe du Souffle.md",
@@ -327,7 +329,6 @@
     "Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld.md",
     "Ordre du souffle.md",
     "elfes]] [[gnomes.md",
-    "Société/Ordre du Souffle (brouillon).md",
     "Géographie/Images Library/Ecorce-Haute.jpg",
     "Géographie/Images Library/Monts d'Elseran.webp",
     "PNJ/Images Library/Oakhaven.jpg",
