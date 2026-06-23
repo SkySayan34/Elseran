@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PNJ/Sœur Sophie.md",
+                "file": "Kyr'Dharûn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sœur Sophie"
+              "title": "Kyr'Dharûn"
             }
           },
           {
@@ -27,86 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chant des Cendres/Session 1.md",
+                "file": "Templates/Session.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1"
-            }
-          },
-          {
-            "id": "388334f9fc33890e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNJ/Eredi Saerel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eredi Saerel"
-            }
-          },
-          {
-            "id": "d9baf695289d0071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNJ/Grognard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grognard"
-            }
-          },
-          {
-            "id": "7d08d1c31a33cc4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNJ/Sorenza.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sorenza"
-            }
-          },
-          {
-            "id": "50a413b74186b677",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNJ/Valérian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Valérian"
-            }
-          },
-          {
-            "id": "0200ac76c768e613",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Société/Ordre du Souffle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ordre du Souffle"
+              "title": "Session"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,36 +214,39 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "7e8d71343cc57fe7",
+  "active": "cdc917931f46b930",
   "lastOpenFiles": [
-    "Templates/PNJ.md",
+    "Société/Cercles druidiques/desktop.ini",
+    "Société/Images Library/desktop.ini",
+    "Société/desktop.ini",
+    "gemini-scribe/Prompts/desktop.ini",
+    "gemini-scribe/Scheduled-Tasks/desktop.ini",
+    "gemini-scribe/Skills/desktop.ini",
+    "gemini-scribe/Background-Tasks/desktop.ini",
+    "gemini-scribe/Agent-Sessions/desktop.ini",
+    "gemini-scribe/desktop.ini",
+    "Géographie/Sylve d'Aerwyn/Mirenfeld/desktop.ini",
+    "Géographie/Images Library/desktop.ini",
+    "PNJ/Sœur Sophie.md",
+    "Kyr'Dharûn.md",
+    "Templates/Session.md",
     "Chant des Cendres/Session 1.md",
+    "Templates/PNJ.md",
     "PNJ/Grognard.md",
     "PNJ/Myrr'Nhalion.md",
     "Glossaire.md",
     "PNJ/Eredi Saerel.md",
     "Templates/Lieux.md",
-    "gemini-scribe/Scheduled-Tasks/desktop.ini",
-    "gemini-scribe/Background-Tasks/desktop.ini",
-    "Cosmologie/desktop.ini",
-    "Templates/Session.md",
-    "PNJ/Sœur Sophie.md",
     "PNJ/Sorenza.md",
     "PNJ/Valérian.md",
     "Société/Ordre du Souffle.md",
     "PNJ/Images Library/Valérian.jpg",
-    "PNJ/Images Library/Non confirmé 657616.crdownload",
     "PNJ/Images Library/Soeur Sophie.jpg",
-    "PNJ/Images Library/Non confirmé 539753.crdownload",
     "PNJ/Images Library/Grognard.jpg",
-    "PNJ/Images Library/Non confirmé 691669.crdownload",
     "Société/Ordre Impérial de la Lumière.md",
-    "Chant des Cendres",
-    "PNJ/Sans titre",
     "Archives/03 - En travail/Mirenfeld/Mirenfeld - Lieux d'Intérêt et Institutions v3.md",
     "Géographie/Sylve d'Aerwyn/Mirenfeld/Écorce-Haute.md",
     "Géographie/Sylve d'Aerwyn/Mirenfeld/Mir'Sylva.md",
-    "Géographie/Sylve d'Aerwyn/Mirenfeld",
     "Géographie/Sylve d'Aerwyn/Sans titre.md",
     "PNJ/Zéphirae Anemoi.md",
     "PNJ/Images Library/Eredi, de l'odre du souffle.png",
@@ -325,10 +257,7 @@
     "PNJ/Oakhaven.md",
     "Géographie/Sylve d'Aerwyn/Sylve d'Aerwyn.md",
     "Société/Images Library/Ordre du Souffle.png",
-    "Société/Images Library",
     "Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld.md",
-    "Ordre du souffle.md",
-    "elfes]] [[gnomes.md",
     "Géographie/Images Library/Ecorce-Haute.jpg",
     "Géographie/Images Library/Monts d'Elseran.webp",
     "PNJ/Images Library/Oakhaven.jpg",
