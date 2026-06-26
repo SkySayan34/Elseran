@@ -3,7 +3,7 @@
 > “Lorsque la lumière d’Aureas caresse le Voile de Myrrha, un nouveau jour naît du souvenir des astres.”
 > 
 > 
-> — Inscription ancienne trouvée à [[Mirenfeld]]
+> — Inscription ancienne trouvée à [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]
 > 
 
 ---

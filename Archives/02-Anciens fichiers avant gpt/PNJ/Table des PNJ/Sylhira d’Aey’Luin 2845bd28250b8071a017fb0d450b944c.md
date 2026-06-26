@@ -1,8 +1,8 @@
 # Sylhira d’Aey’Luin
 
-Appartenance: Aeriël, Conseil de [[Mirenfeld]]
+Appartenance: Aeriël, Conseil de [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]
 Fonction: Voix des Aeriël
-Lieu: Aey'Luin, Frondains, [[Mirenfeld]], [[Sylve d'Aerwyn]]
+Lieu: Aey'Luin, Frondains, [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], [[Sylve d'Aerwyn]]
 Race: Elfe
 État: Vivant.e
 

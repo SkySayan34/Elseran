@@ -17,7 +17,7 @@ aliases:
 > « Ses racines boivent le passé de pierre, ses feuilles murmurent l'avenir de sève, et son tronc porte le poids de notre fragile promesse. »
 > — Chroniques du [[Collège des Chantres d'Écorce]], *Annales du Lien*.
 
-Au centre absolu de la cité de [[Mirenfeld]], s'élevant depuis l'Îlot Central baigné par les eaux du fleuve [[Anserah]], se dresse le **Mir'Sylva** (également orthographié **Myr'Sylva**). Ce titan végétal, qualifié d'**Arbre-Pilier**, est bien plus qu'une merveille de la nature : il est l'ancre magique et le symbole vivant du [[Serment des Racines]], le traité sacré qui unit les destins de l'[[Empire Vhalarionnien]] et de la [[Sylve d'Aerwyn]].
+Au centre absolu de la cité de [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], s'élevant depuis l'Îlot Central baigné par les eaux du fleuve [[Anserah]], se dresse le **Mir'Sylva** (également orthographié **Myr'Sylva**). Ce titan végétal, qualifié d'**Arbre-Pilier**, est bien plus qu'une merveille de la nature : il est l'ancre magique et le symbole vivant du [[Serment des Racines]], le traité sacré qui unit les destins de l'[[Empire Vhalarionnien]] et de la [[Sylve d'Aerwyn]].
 
 ---
 
@@ -65,4 +65,4 @@ Les racines du Mir'Sylva plongent profondément sous le lit de l'[[Anserah]] jus
 S'élevant bien au-dessus d'[[Écorce-Haute]], la canopée du Mir'Sylva capte les vents venus des [[Monts d'Elseran]] et du Cœur Voilé. Les feuilles de l'Arbre-Pilier réagissent aux fluctuations du *Chant de la Terre*. Le [[Scribe du Souffle]], [[Nhyrel de Myrrha]], assisté par le [[Collège des Chantres d'Écorce]], passe de longues nuits à écouter ces bruissements pour consigner l'histoire de la Sylve et décoder les présages de l'équilibre.
 
 ---
-*Voir aussi :* [[Mirenfeld]], [[Serment des Racines]], [[Khor'Vélyss]], [[Guerre des Racines]], [[Anserah]].
+*Voir aussi :* [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], [[Serment des Racines]], [[Khor'Vélyss]], [[Guerre des Racines]], [[Anserah]].

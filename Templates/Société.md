@@ -10,7 +10,7 @@ if (title.startsWith("Untitled") || title === "Template Faction") {
 type: faction
 nom: <% title %>
 categorie:  # [Guilde / Cercle / Culte / Compagnie / Gouvernement]
-quartier_general:  # [Lien ou nom du lieu principal, ex: "[[Mirenfeld]]"]
+quartier_general:  # [Lien ou nom du lieu principal, ex: "[[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]"]
 dirigeant:  # [Lien ou nom du PNJ à la tête du groupe]
 alignement:  # [loyal bon, chaotique mauvais, etc.]
 influence:  # [Totale / Haute / Modérée / Faible / Secrète]

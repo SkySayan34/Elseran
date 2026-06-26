@@ -1,8 +1,8 @@
 # Nhyrel de Myrrha
 
-Appartenance: Conseil de [[Mirenfeld]], Mage Mémoire
+Appartenance: Conseil de [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], Mage Mémoire
 Fonction: Archiviste
-Lieu: Frondains, [[Mirenfeld]], [[Sylve d'Aerwyn]]
+Lieu: Frondains, [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], [[Sylve d'Aerwyn]]
 Race: Gnome
 État: Vivant.e
 

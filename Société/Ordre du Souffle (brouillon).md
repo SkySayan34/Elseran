@@ -66,7 +66,7 @@ L'Ordre est structuré de manière rigoureuse mais décentralisée, permettant �
 
 ## V. Le Sanctuaire du Souffle Profond
 
-Le cœur spirituel et administratif de l'Ordre se situe à **[[Mirenfeld]]**, sous le nom secret de **Sanctuaire du Souffle Profond**.
+Le cœur spirituel et administratif de l'Ordre se situe à **[[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]**, sous le nom secret de **Sanctuaire du Souffle Profond**.
 
 * **Localisation :** Un complexe souterrain majestueux, dissimulé sous le lit même du fleuve sacré [[Anserah]]. 
 * **Description :** Formé de galeries naturelles polies par les eaux et de dômes sculptés à même la roche. Le courant de l'Anserah traverse le cœur du sanctuaire, alimentant des bassins de méditation en pierre noire. Les moines s'y installent pour écouter la "respiration du monde" à travers le murmure de l'eau.
@@ -117,4 +117,4 @@ L'Ordre maintient des havres et des bases secrètes dans les régions clés d'El
 * **Les [[Druide\|Druides]] de la Sylve ([[Cercle de Nourchêne]]) :** Profonde affection et collaboration étroite. Les deux organisations partagent le même amour pour la vie et l'équilibre, collaborant souvent pour protéger la [[Sylve d'Aerwyn]].
 
 ---
-*Voir aussi :* [[Les Trois Voix du Chant]], [[Mirenfeld]], [[Anserah]], [[Guerre des Racines]], [[Serment des Racines]], [[Sylve d'Aerwyn]].
+*Voir aussi :* [[Les Trois Voix du Chant]], [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], [[Anserah]], [[Guerre des Racines]], [[Serment des Racines]], [[Sylve d'Aerwyn]].

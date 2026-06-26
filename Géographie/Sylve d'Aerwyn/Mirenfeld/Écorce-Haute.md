@@ -2,7 +2,7 @@
 type: lieu
 nom: Écorce-Haute
 categorie: Quartier
-parent: "[[Mirenfeld]]"
+parent: "[[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]"
 population: "[[elfes]] [[gnomes]] [[halfelins]] [[humains]]"
 factions_presentes: "[[Galavorn]] [[Aeriel]] [[Cercle Druidique]] [[Ordre du Souffle]]"
 securite: Haute

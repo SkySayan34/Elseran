@@ -2,7 +2,7 @@
 
 Appartenance: [[Druide]], Ordre du Souffle
 Fonction: Mesagère druidique - Voile
-Lieu: Frondains, [[Mirenfeld]], [[Sylve d'Aerwyn]]
+Lieu: Frondains, [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], [[Sylve d'Aerwyn]]
 Race: Demi-Elfe
 État: Vivant.e
 

@@ -2,7 +2,7 @@
 
 Appartenance: Galavorn
 Fonction: Voix des Galavorn
-Lieu: Cîmes-Haute, Frondains, Hauts-Feuillus, [[Mirenfeld]], [[Sylve d'Aerwyn]]
+Lieu: Cîmes-Haute, Frondains, Hauts-Feuillus, [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], [[Sylve d'Aerwyn]]
 Race: Elfe
 État: Vivant.e
 

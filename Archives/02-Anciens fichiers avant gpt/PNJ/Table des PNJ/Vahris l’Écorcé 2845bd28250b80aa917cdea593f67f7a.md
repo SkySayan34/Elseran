@@ -1,8 +1,8 @@
 # Vahris l’Écorcé
 
-Appartenance: Cercle de Nourchêne, Conseil de [[Mirenfeld]], [[Druide]]
+Appartenance: Cercle de Nourchêne, Conseil de [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], [[Druide]]
 Fonction: Chef du cercle,Haut-[[Druide]]
-Lieu: Frondains, [[Mirenfeld]], [[Sylve d'Aerwyn]]
+Lieu: Frondains, [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], [[Sylve d'Aerwyn]]
 Race: Humain
 État: Vivant.e
 

@@ -12,7 +12,7 @@ Le fleuve de l'**Anserah** est l'un des cours d'eau principaux du continent d'[[
 
 De nombreuses cités et communautés bordent ou sont traversées par les eaux de l'Anserah :
 - [[Lethariel]]
-- [[Mirenfeld]]
+- [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]
 - [[Aey'Luin]]
 - [[Anelthir]]
 - [[Cîmes-Hautes]]

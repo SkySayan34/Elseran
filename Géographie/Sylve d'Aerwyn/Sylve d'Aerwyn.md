@@ -32,7 +32,7 @@ cree_le: 2026-05-23
 - **Titres :** Le Souffle Vert, la Mémoire Sylvestre
 - **Position :** Nord-Ouest d'[[Elseran]]. Sa frontière est marquée au sud par le fleuve sacré [[Anserah]], et à l'est par la haute chaîne des [[Monts d'Elseran|Hauts de Vhalûr]].
 - **Climat :** Tempéré et humide, caractérisé par des brumes permanentes et des pluies calmes. La forêt s'autorégule naturellement (absence totale d'incendies naturels ou de sécheresses).
-- **Capitale :** [[Mirenfeld]], la cité née du [[Serment des Racines]].
+- **Capitale :** [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], la cité née du [[Serment des Racines]].
 
 ## 📜 Histoire & Lore
 *(Le passé de ce lieu, les événements marquants ou les secrets géographiques)*
@@ -46,7 +46,7 @@ cree_le: 2026-05-23
 *(Si c'est une ville : les tavernes, temples, boutiques. Si c'est une région : les villages, ruines, etc.)*
 
 * **Les [[Frondains]] :** Une forêt mixte, lumineuse et fertile. C'est la région la plus accessible et habitée de la Sylve, traversée par d'anciennes routes de pierre.
-	- *Points d'intérêt :* [[Mirenfeld]] ; [[Nourchêne]] ; [[Aey'Luin]]
+	- *Points d'intérêt :* [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]] ; [[Nourchêne]] ; [[Aey'Luin]]
 - **Les [[Hauts-Feuillus]] :** Zone de relief élevé (falaises, collines et cascades) dominée par des arbres géants aux feuilles dorées.
 	- *Points d'intérêt :* [[Cîmes-Hautes]] ; [[Anelthir]]
 - **Le [[Cœur Voilé]] :** Une forêt ultra-dense, noyée sous des brumes épaisses où la magie ancienne est omniprésente, semblable à une jungle mystique.

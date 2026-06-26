@@ -1,7 +1,7 @@
 <%*
 // Prompt Templater pour nommer la note à la création
 let title = tp.file.title;
-if (title.startsWith("Untitled") || title === "Template Lieu") {
+if (title.startsWith("Untitled") | title.startsWith("Sans titre") || title === "Template Lieu") {
     title = await tp.system.prompt("Nom du Lieu :");
     await tp.file.rename(title);
 }

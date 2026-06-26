@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cdc917931f46b930",
+            "id": "ba1ed66d9a550232",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kyr'Dharûn.md",
+                "file": "Chant des Cendres/Quêtes/Meurtres de la Taverne des Abysses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kyr'Dharûn"
+              "title": "Meurtres de la Taverne des Abysses"
             }
           },
           {
-            "id": "7e8d71343cc57fe7",
+            "id": "70ee6c22620eeef4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Session.md",
+                "file": "Chant des Cendres/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session"
+              "title": "Session 1"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/PNJ.md",
+                "file": "Chant des Cendres/Quêtes/Meurtres de la Taverne des Abysses.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de PNJ"
+              "title": "Plan de Meurtres de la Taverne des Abysses"
             }
           },
           {
@@ -214,50 +214,50 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "cdc917931f46b930",
+  "active": "ba1ed66d9a550232",
   "lastOpenFiles": [
-    "Société/Cercles druidiques/desktop.ini",
-    "Société/Images Library/desktop.ini",
-    "Société/desktop.ini",
-    "gemini-scribe/Prompts/desktop.ini",
-    "gemini-scribe/Scheduled-Tasks/desktop.ini",
-    "gemini-scribe/Skills/desktop.ini",
-    "gemini-scribe/Background-Tasks/desktop.ini",
-    "gemini-scribe/Agent-Sessions/desktop.ini",
-    "gemini-scribe/desktop.ini",
-    "Géographie/Sylve d'Aerwyn/Mirenfeld/desktop.ini",
-    "Géographie/Images Library/desktop.ini",
-    "PNJ/Sœur Sophie.md",
-    "Kyr'Dharûn.md",
-    "Templates/Session.md",
+    "Templates/Quête.md",
+    "Templates/Arc.md",
     "Chant des Cendres/Session 1.md",
+    "Chant des Cendres/Quêtes/Meurtres de la Taverne des Abysses.md",
+    "Chant des Cendres/Quêtes",
+    "Templates/Chapitre.md",
+    "Chant des Cendres/Chapitres/Danse Macabre.md",
+    "Chant des Cendres/Arcs/Mirenfeld.md",
+    "Chant des Cendres/Arcs/En route !.md",
+    "Vox Ceneris]] sont missionné par l'[[Ordre du Souffle]] d'enquêter sur des morts proche de la [[Taverne des Abysses.md",
+    "Chant des Cendres/Chapitres/Danse macabre.md",
     "Templates/PNJ.md",
-    "PNJ/Grognard.md",
-    "PNJ/Myrr'Nhalion.md",
-    "Glossaire.md",
+    "Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld.md",
+    "Chant des Cendres/Campagne.md",
+    "Sessions/desktop.ini",
+    "Chant des Cendres/Sessions",
+    "Chant des Cendres/Arcs/desktop.ini",
+    "Chant des Cendres/Arcs/erg.md",
+    "Chant des Cendres/Sessions/er.md",
+    "Chant des Cendres/Arc/ferds.md",
+    "Chant des Cendres/Arc/Mirenfeld.md",
+    "Chant des Cendres/Arc/edrg.md",
+    "Chant des Cendres/Session/desktop.ini",
+    "Chant des Cendres/Arc/desktop.ini",
+    "Chant des Cendres/Chapitres",
+    "Chant des Cendres/Arcs",
+    "Templates/Session.md",
     "PNJ/Eredi Saerel.md",
     "Templates/Lieux.md",
-    "PNJ/Sorenza.md",
-    "PNJ/Valérian.md",
-    "Société/Ordre du Souffle.md",
+    "PNJ/erdf.md",
+    ".md",
+    "Harry.md",
+    "Harry.md",
+    "Templates/Main Page.md",
+    "PNJ/Grognard.md",
+    "Chant des Cendres/Sans titre/desktop.ini",
     "PNJ/Images Library/Valérian.jpg",
     "PNJ/Images Library/Soeur Sophie.jpg",
     "PNJ/Images Library/Grognard.jpg",
-    "Société/Ordre Impérial de la Lumière.md",
-    "Archives/03 - En travail/Mirenfeld/Mirenfeld - Lieux d'Intérêt et Institutions v3.md",
-    "Géographie/Sylve d'Aerwyn/Mirenfeld/Écorce-Haute.md",
-    "Géographie/Sylve d'Aerwyn/Mirenfeld/Mir'Sylva.md",
-    "Géographie/Sylve d'Aerwyn/Sans titre.md",
-    "PNJ/Zéphirae Anemoi.md",
     "PNJ/Images Library/Eredi, de l'odre du souffle.png",
-    "Scribe du Souffle.md",
     "PNJ/Images Library/Sorenza la tenanciere du chene vert.png",
-    "Templates/Société.md",
-    "Cosmologie/Myrrha - Déesse Fondatrice de la Mémoire et de la Magie.md",
-    "PNJ/Oakhaven.md",
-    "Géographie/Sylve d'Aerwyn/Sylve d'Aerwyn.md",
     "Société/Images Library/Ordre du Souffle.png",
-    "Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld.md",
     "Géographie/Images Library/Ecorce-Haute.jpg",
     "Géographie/Images Library/Monts d'Elseran.webp",
     "PNJ/Images Library/Oakhaven.jpg",

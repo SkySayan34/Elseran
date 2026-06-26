@@ -2,11 +2,11 @@
 
 Appartenance: Symphonie Silencieuse
 Fonction: Espion
-Lieu: Frondains, [[Mirenfeld]], [[Sylve d'Aerwyn]]
+Lieu: Frondains, [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], [[Sylve d'Aerwyn]]
 Race: Humain
 État: Vivant.e
 
-*Espion de la Symphonie Silencieuse – [[Mirenfeld]]*
+*Espion de la Symphonie Silencieuse – [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]*
 
 ![image.png](Arveth%20le%20Silencieux/image.png)
 
@@ -16,7 +16,7 @@ Race: Humain
 - **Surnom** : *le Silencieux* (jamais utilisé devant des civils)
 - **Race** : Humain (apparence soignée, âge indéfinissable)
 - **Profession officielle** : Marchand d’art et d’objets anciens
-- **Lieu d’activité** : [[Mirenfeld]], quartiers érudits et cercles culturels
+- **Lieu d’activité** : [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], quartiers érudits et cercles culturels
 
 ---
 

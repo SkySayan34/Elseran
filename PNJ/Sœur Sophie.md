@@ -4,7 +4,7 @@ nom: Sœur Sophie
 statut: Vivant
 faction: "[[Ordre Impérial de la Lumière]]"
 fonction: Soeur
-lieu: "[[Mirenfeld]]"
+lieu: "[[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]"
 alignement: LM
 race: humaine
 classe: clerc

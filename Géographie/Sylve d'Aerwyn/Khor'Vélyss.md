@@ -15,7 +15,7 @@ Elle se dresse dans la [[Sylve d'Aerwyn]], dissimulée au sein de la région mys
 
 ## Le Cercle Druidique de Khor'Vélyss
 
-Le Cercle de Khor'Vélyss est l'une des assemblées spirituelles les plus anciennes et respectées d'[[Elseran]]. Ses [[Archidruide|archidruides]] et druides sont à l'origine du [[Serment des Racines]], le traité magique qui mit fin aux affrontements de la [[Guerre des Racines]]. Aujourd'hui encore, le Cercle veille au maintien de l'Équilibre et intervient régulièrement dans les affaires politiques de la cité frontalière de [[Mirenfeld]].
+Le Cercle de Khor'Vélyss est l'une des assemblées spirituelles les plus anciennes et respectées d'[[Elseran]]. Ses [[Archidruide|archidruides]] et druides sont à l'origine du [[Serment des Racines]], le traité magique qui mit fin aux affrontements de la [[Guerre des Racines]]. Aujourd'hui encore, le Cercle veille au maintien de l'Équilibre et intervient régulièrement dans les affaires politiques de la cité frontalière de [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]].
 
 ### Membres Connus
 

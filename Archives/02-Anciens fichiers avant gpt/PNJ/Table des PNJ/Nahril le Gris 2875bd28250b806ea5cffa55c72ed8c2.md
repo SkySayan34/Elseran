@@ -10,4 +10,4 @@ Demi-elfe
 
 Voyageur-chroniqueur
 
-Fils d’une humaine de [[Mirenfeld]]. Sert de lien avec les autres peuples. Charmeur, curieux, parfois téméraire.
+Fils d’une humaine de [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]. Sert de lien avec les autres peuples. Charmeur, curieux, parfois téméraire.

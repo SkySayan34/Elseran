@@ -4,7 +4,7 @@ nom: Grognard
 statut: Vivant
 faction:
 fonction: videur de la [[Taverne des Abysses]]
-lieu: "[[Mirenfeld]]"
+lieu: "[[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]"
 alignement: N
 race: Goliath
 classe:

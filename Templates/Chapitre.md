@@ -1,0 +1,66 @@
+<%*
+let title = tp.file.title;
+if (title.startsWith("Untitled")  | title === "Template Chapitre") {
+    title = await tp.system.prompt("Nom du chapitre :");
+    await tp.file.rename(title);
+}
+
+const description = await tp.system.prompt("Description courte :");
+const statut = await tp.system.suggester(["En cours", "Terminé", "À venir"], ["En cours", "Terminé", "À venir"]);
+const dateDebut = tp.file.creation_date("YYYY-MM-DD");
+const campagne = await tp.system.suggester(["Chant des Cendres", "Contes en Elseran"], ["Chant des Cendres", "Contes en Elseran"]);
+const arc = await tp.system.prompt("Nom de l'arc parent (ex: Arc 1 - Le Réveil des Cendres) :");
+
+tR += `---
+type: chapitre
+nom: ${title}
+arc: ${arc}
+campagne: ${campagne}
+world: Elseran
+description: "${description}"
+statut: ${statut}
+date_debut: ${dateDebut}
+---
+
+# 📖 ${title}
+
+> [!infobox]
+> | | |
+> |---|---|
+> | **Arc** | \`= this.arc \` |
+> | **Campagne** | \`= this.campagne \` |
+> | **Statut** | \`= this.statut \` |
+> | **Début** | \`= this.date_debut \` |
+
+## 📜 **Résumé**
+
+\`= this.description \`
+`;
+%>
+
+## Sessions
+
+```dataview
+TABLE date AS "Date Réelle", game_date AS "Date In-Game", location AS "Lieu", characters AS "PJ"
+FROM "${campagne}/Sessions"
+WHERE contains(chapitre, this.file.name)
+SORT date ASC
+```
+
+## Quêtes
+
+```dataview
+TABLE description AS "Objectif", statut AS "Statut"
+FROM "${campagne}/Quêtes"
+WHERE contains(chapitre, this.file.name)
+SORT statut ASC
+```
+
+## PNJ
+
+```dataview
+TABLE nom AS "Nom", faction AS "Faction"
+FROM #PNJ OR "PNJ"
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
+```
