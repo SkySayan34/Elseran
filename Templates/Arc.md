@@ -18,6 +18,7 @@ world: Elseran
 description: "${description}"
 statut: ${statut}
 date_debut: ${dateDebut}
+tags: #arc
 ---
 
 # 🌌 ${title}

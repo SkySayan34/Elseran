@@ -37,7 +37,7 @@ SORT date ASC
 
 ```dataview
 TABLE description AS "Objectif", statut AS "Statut"
-FROM "${campagne}/Quêtes"
+FROM #quête
 WHERE contains(chapitre, this.file.name)
 SORT statut ASC
 ```

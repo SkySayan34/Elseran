@@ -20,6 +20,7 @@ world: Elseran
 description: "${description}"
 statut: ${statut}
 date_debut: ${dateDebut}
+tag: #chapitre
 ---
 
 # 📖 ${title}
@@ -42,7 +43,7 @@ date_debut: ${dateDebut}
 
 ```dataview
 TABLE date AS "Date Réelle", game_date AS "Date In-Game", location AS "Lieu", characters AS "PJ"
-FROM "${campagne}/Sessions"
+FROM #session
 WHERE contains(chapitre, this.file.name)
 SORT date ASC
 ```
@@ -51,7 +52,7 @@ SORT date ASC
 
 ```dataview
 TABLE description AS "Objectif", statut AS "Statut"
-FROM "${campagne}/Quêtes"
+FROM #quête 
 WHERE contains(chapitre, this.file.name)
 SORT statut ASC
 ```

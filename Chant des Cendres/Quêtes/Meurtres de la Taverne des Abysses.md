@@ -9,6 +9,8 @@ description: Des meurtres ont lieu proche de la [[Taverne des Abysses]]. Vox Cen
 statut: En cours
 priorité: Basse
 date_debut: 2026-06-26
+tags:
+  - quête
 ---
 
 # 🎯 Meurtres de la Taverne des Abysses
@@ -33,7 +35,7 @@ date_debut: 2026-06-26
 - [ ]  Parler à [[Valérian]] pour comprendre qu'il est innocent
 - [ ]  Etudier les cadavres
 - [ ]  Suivre la piste remontant jusqu'à [[Sœur Sophie]]
-- [ ]  Neutraliser [[Sœur Sophie]]
+- [ ]  Neutraliser [[Sœur Sophie]] et ses acolytes
 
 ---
 
