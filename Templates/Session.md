@@ -21,7 +21,6 @@ campagne: ${campagne}
 arc: ${arc}
 chapitre: ${chapitre}
 date: ${dateReelle}
-game_date: ${dateInGame}
 location: ${location}
 tags: #session
 ---

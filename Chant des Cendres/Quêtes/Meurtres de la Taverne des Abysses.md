@@ -2,7 +2,7 @@
 type: quête
 nom: Meurtres de la Taverne des Abysses
 campagne: Chant des Cendres
-arc: Mirenfeld
+arc: A Mirenfeld
 chapitre: Danse Macabre
 world: Elseran
 description: Des meurtres ont lieu proche de la [[Taverne des Abysses]]. Vox Ceneris doit trouver les coupables.

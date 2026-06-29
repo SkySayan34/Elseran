@@ -5,6 +5,19 @@ if (title.startsWith("Untitled") | title.startsWith("Sans titre") || title === "
     title = await tp.system.prompt("Nom du Lieu :");
     await tp.file.rename(title);
 }
+
+const categorie = await tp.system.suggester(["region", "sous_region", "location", "location_precise"], ["region", "sous_region", "location", "location_precise"])
+const lieu_parent = await tp.system.prompt("Nom du lieu parent :")
+const securite = await.tp.system.suggester(["Haute", "Normale", "Dangereux", "Non-civilisé"], ["Haute", "Normale", "Dangereux", "Non-civilisé"])
+const date_creation = tp.file.creation_date("YYYY-MM-DD")
+
+tR += `---
+type: lieu
+nom: ${title}
+categorie: ${categorie}
+lieu_parent: ${lieu_parent}
+securite: ${securite}
+date_creation:
 -%>
 ---
 type: lieu

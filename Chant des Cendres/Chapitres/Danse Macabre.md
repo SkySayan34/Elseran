@@ -1,23 +1,30 @@
 ---
 type: chapitre
 nom: Danse Macabre
-arc: Mirenfeld
+arc: A Mirenfeld
 campagne: Chant des Cendres
 world: Elseran
 description: "\"[[Vox Ceneris]] sont missionnés par l'[[Ordre du Souffle]] d'enquêter sur des morts proche de la [[Taverne des Abysses]]\""
 statut: En cours
 date_debut: 2026-06-26
+tags:
+  - chapitre
+region: Sylve d'Aerwyn
+sous_region: Frondains
+location: Mirenfeld
+location_precise: Croisée des Chemins
 ---
 
 # 📖 Danse Macabre
 
 > [!infobox]
-> | | |
+>   | | |
 > |---|---|
-> | **Arc** | `= this.arc ` |
-> | **Campagne** | `= this.campagne ` |
-> | **Statut** | `= this.statut ` |
-> | **Début** | `= this.date_debut ` |
+> | **Arc** | `= link(this.arc)` |
+> | **Campagne** | `= link(this.campagne)` |
+> | **Statut** | `= this.statut` |
+> | **Début** | `= this.date_debut` |
+> | **Lieu** | `= link(this.location_precise)` |
 
 ## 📜 **Résumé**
 
