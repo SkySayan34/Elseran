@@ -10,6 +10,8 @@ aliases:
   - Mir-Sylva
   - L'Arbre-Pilier
   - Arbre-Pilier
+lieu_parent: Mirenfeld
+type: lieu
 ---
 
 # Le Mir'Sylva : L'Arbre-Pilier de Mirenfeld

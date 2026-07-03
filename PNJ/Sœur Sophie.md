@@ -1,7 +1,7 @@
 ---
 type: PNJ
 nom: Sœur Sophie
-statut: Vivant
+statut: Mort
 faction: "[[Ordre Impérial de la Lumière]]"
 fonction: Soeur
 lieu: "[[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]"
@@ -30,7 +30,7 @@ date_de_création: 2026-06-15
 
 * **Personnalité :** Charismatique, austère, regard fiévreux. Elle parle avec une voix théâtrale qui captive les foules. Elle méprise profondément le métissage culturel de Mirenfeld.
 * **Motivation principale :** Purger la ville de sa "décadence".
-* **Secrets / Ce qu'il cache :**  Elle orchestre les meurtres et mutile les corps pour faire accuser l'[[Auberge des Abysses]] et forcer le [[Conseil du Lien à le fermer.
+* **Secrets / Ce qu'il cache :**  Elle orchestre les meurtres et mutile les corps pour faire accuser l'[[Auberge des Abysses]] et forcer le [[Conseil du Lien]] à le fermer.
 
 ## 📝 Notes & Lore
 *(Raconte ici son histoire, son passif avec les PJ ou son rôle actuel dans l'intrigue)*

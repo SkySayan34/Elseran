@@ -64,7 +64,7 @@
     },
     {
       "id": "leaflet-map-mirenfeld",
-      "lastAccessed": 1781301325393,
+      "lastAccessed": 1782756730114,
       "markers": [
         {
           "id": "ID_2ad9281b0a49",
@@ -274,12 +274,44 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b38c93bb819",
+          "type": "default",
+          "loc": [
+            -0.859423816204071,
+            1.5841796398162842
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8a9faeb88da",
+          "type": "default",
+          "loc": [
+            -1.200048878788948,
+            1.2865233421325684
+          ],
+          "layer": "%5B%5BMirenfeld%20%20v2%20-%20Copie.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "Géographie/Sylve d'Aerwyn/Mirenfeld.md"
+        "Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld.md"
       ]
     }
   ],
