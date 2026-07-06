@@ -98,11 +98,11 @@ Aujourd'hui, Mirenfeld is une métropole diplomatique et marchande unique sur [[
 ### Zone B : L'Îlot Central (Le Noyau du Pouvoir)
 Organisé en cercles concentriques sur une île rocheuse au milieu de l'[[Anserah]], ce secteur incarne la fusion absolue entre la rigueur impériale et la puissance de la nature sacrée.
 
-| Cercle | Appellation | Description et Fonction |
-| :--- | :--- | :--- |
-| **Cercle 1** | **[[Place du Serment]]** | La citadelle de pierre blanche impériale, désormais entièrement fusionnée avec le [[Mir'Sylva]] (l'Arbre-Pilier). C’est ici que siège le glorieux **[[Conseil du Lien]]**. |
-| **Cercle 2** | **[[Anneau des Maîtres]]** | Le secteur administratif et économique abritant les sièges des grandes corporations, des guildes et des institutions de la cité. |
-| **Cercle 3** | **[[Péristyle des Sages]]** | Le cercle politique supérieur abritant les résidences des hauts dignitaires et la **[[Loge des Hauts-Druides]]** de [[Khor'Vélyss]]. |
+| Cercle       | Appellation                 | Description et Fonction                                                                                                                                                    |
+| :----------- | :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cercle 1** | **[[Place du Serment]]**    | La citadelle de pierre blanche impériale, désormais entièrement fusionnée avec le [[Mir'Sylva]] (l'Arbre-Pilier). C’est ici que siège le glorieux **[[Conseil du Lien]]**. |
+| **Cercle 2** | **[[Anneau des Maîtres]]**  | Le secteur administratif et économique abritant les sièges des grandes corporations, des guildes et des institutions de la cité.                                           |
+| **Cercle 3** | **[[Péristyle des Sages]]** | Le cercle politique supérieur abritant les résidences des hauts dignitaires et la **[[Loge des Hauts-Druides]]** de [[Khor'Vélyss]].                                       |
 
 ### Zone C : Le Versant Cosmopolite (Est)
 Affichant une architecture vhalarionnienne classique en marbre blanc et pierre taillée, ce versant accueille les influences, les marchands et les voyageurs de tout le continent d'[[Elseran]].

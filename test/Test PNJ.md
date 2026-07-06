@@ -1,49 +1,54 @@
 ---
 type: PNJ
-nom: Zéphirae Anemoi
 statut: Vivant
-groupe: Chef de Guilde
-lieu: "[[[Vhalarion Prime]] ; [[Vhalarion]]]"
-faction: "[[Ordre du Souffle]]"
-alignement: LN
-date_de_création: 2026-06-13
+faction: Ordre du Souffle
+fonction: Voile
+lieu: Test origine/Test fils
+alignement: N
+race: Elfe
+classe: Paladin
+genre: Homme
+description: Coucou, ceci est un test. Bonsoir
+date_de_création: 2026-07-06
 ---
 
-# PNJ : Zéphirae Anemoi
+# Test PNJ
 
 > [!infobox]+ portrait
 > ![[carte_placeholder.jpg|cover]]
 > ###### Infos Rapides
 > | | |
 > | --- | --- |
-> | **Faction** | `$= dv.current().faction` |
-> | **Lieu** | `$= dv.current().lieu` |
-> | **Statut** | `$= dv.current().statut` |
+> | **Faction** | `= link(this.faction)` |
+> | **Fonction** | `= link(this.fonction)` |
+> | **Lieu** | `= link(this.lieu)` |
+> | **Statut** | `= this.statut` |
 
-## 👤 Description & Psychologie
+
+##  Description & Psychologie
 * **Apparence :** 
 * **Personnalité :** 
 * **Motivation principale :** 
 * **Secrets / Ce qu'il cache :** 
 
-## 📝 Notes & Lore
+##  Notes & Lore
 *(Raconte ici son histoire, son passif avec les PJ ou son rôle actuel dans l'intrigue)*
 
 - 
 
-## 🔗 Relations & Connexions
+##  Relations & Connexions
 * **Alliés :** 
 * **Ennemis :** 
 * **Réseau :** 
 
-## 🛠️ Coulisses du MJ (Dataview)
+##  Coulisses du MJ (Dataview)
 *Cette section se remplit automatiquement si d'autres notes (quêtes, sessions, rumeurs) mentionnent ce PNJ.*
 
 ### Quêtes liées
 ```dataview
 TABLE description AS "Objectif", statut AS "Statut"
-FROM #quete or "Suivi de Campagne"
-WHERE contains(pnj, this.file.link)
+FROM "Chant des Cendres/Quêtes"
+WHERE this.file.link
 ```
 ### Journal des rencontres
 ```dataview

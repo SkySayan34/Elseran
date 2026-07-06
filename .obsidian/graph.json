@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "-path : archives",
+  "search": "path: test  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Géographie  ",
@@ -53,6 +53,6 @@
   "repelStrength": 12.5,
   "linkStrength": 0.395833333333333,
   "linkDistance": 148,
-  "scale": 0.7514829526494349,
-  "close": true
+  "scale": 1.241454389948303,
+  "close": false
 }

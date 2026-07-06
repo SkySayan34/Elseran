@@ -46,7 +46,6 @@ _(Ce champ est utilisé par la requête dans ton template PNJ existant)_
 - [[Grognard]]
 - [[Sœur Sophie]]
 - [[Valérian]]
-
 ---
 
 ## 🗺️ **Lieux Associés**
