@@ -1,18 +1,18 @@
 ---
-type: PNJ
+type: PJ
 statut: Vivant
-faction: Ordre du Souffle
-fonction: Voile
-lieu: Test origine/Test fils
+faction: Culte du Néant
+fonction: Commandant en chef
+lieu: Géographie/Elseran/Thal'Myrrun/Vhalren
 alignement: N
-race: Elfe
-classe: Paladin
+race: Demi-Orc
+classe: Occultiste
 genre: Homme
-description: Coucou, ceci est un test. Bonsoir
-date_de_création: 2026-07-06
+description: Commandant en chef du Culte du Néant dédié à Dhargam, il dirige la sous-branche cherchant à détruire la matière.
+date_de_création: 2026-08-11
 ---
 
-# Test PNJ
+# Disa Pear
 
 > [!infobox]+ portrait
 > ![[carte_placeholder.jpg|cover]]
@@ -26,6 +26,7 @@ date_de_création: 2026-07-06
 
 
 ##  Description & Psychologie
+
 * **Apparence :** 
 * **Personnalité :** 
 * **Motivation principale :** 
@@ -34,14 +35,14 @@ date_de_création: 2026-07-06
 ##  Notes & Lore
 *(Raconte ici son histoire, son passif avec les PJ ou son rôle actuel dans l'intrigue)*
 
-- 
+- ancien membre du clan [[Ertuk]] dans le [[Dhar'Zulun]]. Il est devenu chasseur de trésor, a voyagé un peu partout et a fini par rejoindre le [[Culte du Néant]] car il a compris que le monde atteignait sa fin et qu'il fallait l'aider à se réinitialiser.
 
 ##  Relations & Connexions
 * **Alliés :** 
 * **Ennemis :** 
 * **Réseau :** 
 
-##  Coulisses du MJ (Dataview)
+##  Coulisses du MJ
 *Cette section se remplit automatiquement si d'autres notes (quêtes, sessions, rumeurs) mentionnent ce PNJ.*
 
 ### Quêtes liées
@@ -50,10 +51,12 @@ TABLE description AS "Objectif", statut AS "Statut"
 FROM "Chant des Cendres/Quêtes"
 WHERE contains(file.outlinks, this.file.link)
 ```
+
+
 ### Journal des rencontres
 ```dataview
 LIST
-FROM "Sessions" or #session
+FROM #session 
 WHERE contains(file.outlinks, this.file.link)
 SORT file.ctime DESC
 ```

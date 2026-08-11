@@ -30,15 +30,17 @@ tags: #session
 > [!infobox]
 > | | |
 > |---|---|
-> | **Campagne** | \`= this.campagne \` |
-> | **Arc** | \`= this.arc \` |
-> | **Chapitre** | \`= this.chapitre \` |
+> | **Campagne** | \`= link(this.campagne) \` |
+> | **Arc** | \`= link(this.arc) \` |
+> | **Chapitre** | \`= link(this.chapitre) \` |
 > | **Date** | \`= this.date \` |
-> | **Lieu** | \`= this.location \` |
+> | **Lieu** | \`= link(this.location) \` |
 `;
 %>
 
 ## 📌 Résumé de la Session
+
+
 
 ^summary
 

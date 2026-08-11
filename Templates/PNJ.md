@@ -69,7 +69,7 @@ date_de_création: ${tp.file.creation_date("YYYY-MM-DD")}
 ```dataview
 TABLE description AS "Objectif", statut AS "Statut"
 FROM "Chant des Cendres/Quêtes"
-WHERE contains(file.links, this.file.link.path)
+WHERE contains(file.outlinks, this.file.link)
 ```
 
 
@@ -77,6 +77,6 @@ WHERE contains(file.links, this.file.link.path)
 ```dataview
 LIST
 FROM "Chant des Cendres/Sessions"
-WHERE contains(file.outlinks, this.file.link.path)
+WHERE contains(file.outlinks, this.file.link)
 SORT file.ctime DESC
 ```

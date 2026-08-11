@@ -10,7 +10,6 @@ statut: En cours
 priorité: Basse
 date_debut: 2026-06-26
 tags:
-  - quête
 ---
 
 # 🎯 Meurtres de la Taverne des Abysses
