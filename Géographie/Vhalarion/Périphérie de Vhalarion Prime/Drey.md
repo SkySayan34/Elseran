@@ -1,38 +1,23 @@
-<%*
-// Prompt Templater pour nommer la note à la création
-let title = tp.file.title;
-if (title.startsWith("Untitled") || title.startsWith("Sans titre") || title === "Template Lieu") {
-    title = await tp.system.prompt("Nom du Lieu :");
-    await tp.file.rename(title);
-}
-
-const categorie = await tp.system.suggester(["region", "sous_region", "location", "location_precise"], ["region", "sous_region", "location", "location_precise"])
-const lieu_parent = await tp.system.prompt("Nom du lieu parent :")
-const securite = await tp.system.suggester(["Haute", "Normale", "Dangereux", "Non-civilisé"], ["Haute", "Normale", "Dangereux", "Non-civilisé"])
-const date_creation = tp.file.creation_date("YYYY-MM-DD")
-
-tR += `---
+---
 type: lieu
-nom: ${title}
-categorie: ${categorie}
-lieu_parent: ${lieu_parent}
-securite: ${securite}
-date_creation: ${date_creation}
+nom: Drey
+categorie: location
+lieu_parent: Périphérie de Vhalarion Prime
+securite: Normale
+date_creation: 2026-09-04
 ---
 
-# ${title}
+# Drey
 
 > [!infobox]+ carte
 > ![[carte_placeholder.jpg|cover]]
 > ###### Repères
 > | | |
 > | --- | --- |
-> | **Catégorie** | \`= this.categorie \` |
-> | **Se trouve dans** | \`= link(this.lieu_parent) \` |
-> | **Sécurité** | \`= this.securite \` |
+> | **Catégorie** | `= this.categorie ` |
+> | **Se trouve dans** | `= link(this.lieu_parent) ` |
+> | **Sécurité** | `= this.securite ` |
 
-`;
--%>
 
 ```leaflet
 id: leaflet-map-${title}
@@ -51,7 +36,7 @@ darkMode: false
 ##  Description générale
 *(Écris ici l'ambiance visuelle, l'architecture, le climat ou la première impression des joueurs en arrivant)*
 
-- 
+- Petit village de fermier.
 
 ##  Histoire & Lore
 *(Le passé de ce lieu, les événements marquants ou les secrets géographiques)*

@@ -20,7 +20,7 @@ date_de_création: 2026-08-11
 > | | |
 > | --- | --- |
 > | **Faction** | `= link(this.faction)` |
-> | **Fonction** | `= link(this.fonction)` |
+> | **Fonction** | `= this.fonction` |
 > | **Lieu** | `= link(this.lieu)` |
 > | **Statut** | `= this.statut` |
 
@@ -46,6 +46,7 @@ date_de_création: 2026-08-11
 *Cette section se remplit automatiquement si d'autres notes (quêtes, sessions, rumeurs) mentionnent ce PNJ.*
 
 ### Quêtes liées
+
 ```dataview
 TABLE description AS "Objectif", statut AS "Statut"
 FROM "Chant des Cendres/Quêtes"
@@ -54,8 +55,9 @@ WHERE contains(file.outlinks, this.file.link)
 
 
 ### Journal des rencontres
+
 ```dataview
-LIST
+TABLE 
 FROM #session 
 WHERE contains(file.outlinks, this.file.link)
 SORT file.ctime DESC

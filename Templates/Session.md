@@ -1,28 +1,22 @@
 <%*
 let title = tp.file.title;
-if (title.startsWith("Untitled")  | title === "Template Session") {
+if (title.startsWith("Sans titre") || title.startsWith("Untitled")  | title === "Template Session") {
     let sessionNumber = await tp.system.prompt("Numéro de la session :");
     let sessionName = await tp.system.prompt("Titre de la session :");
     title = `Session ${sessionNumber} - ${sessionName}`;
     await tp.file.rename(title);
 }
 
-const campagne = await tp.system.suggester(["Chant des Cendres", "Contes en Elseran"], ["Chant des Cendres", "Contes en Elseran"]);
-const arc = await tp.system.prompt("Arc associé :");
-const chapitre = await tp.system.prompt("Chapitre associé :");
+const campagne = await tp.system.prompt("Campagne ? : ")
 const dateReelle = tp.file.creation_date("YYYY-MM-DD");
-const location = await tp.system.prompt("Lieu principal :");
-
 
 tR += `---
 type: session
-world: Elseran
 campagne: ${campagne}
-arc: ${arc}
-chapitre: ${chapitre}
+arc:
+chapitre:
 date: ${dateReelle}
-location: ${location}
-tags: #session
+location:
 ---
 
 # ${title}
@@ -38,7 +32,45 @@ tags: #session
 `;
 %>
 
-## 📌 Résumé de la Session
+# Récapitulatif
+
+<%*
+// 1. Récupère toutes les sessions de la campagne
+const allSessions = app.vault.getMarkdownFiles()
+  .filter(f => f.path.includes(`${campagne}/Sessions`))
+  .sort((a, b) => {
+    const numA = parseInt(a.basename.split(" - ")[0].replace("Session ", ""));
+    const numB = parseInt(b.basename.split(" - ")[0].replace("Session ", ""));
+    return numA - numB; // Tri croissant (1, 2, 3...)
+  });
+
+// 2. Trouve l'index de la session actuelle
+const currentIndex = allSessions.findIndex(f => f.basename === title);
+
+// 3. Détermine la session précédente (ou "Session Précédente" si inexistante)
+const previousSession = currentIndex > 0 ? allSessions[currentIndex - 1] : null;
+
+// 4. Génère le lien vers la section #^summary de la session précédente
+if (previousSession) {
+  tR += `![[${previousSession.basename}#^summary]]`;
+} else {
+  tR += "";
+}
+%>
+
+---
+
+# Préparation de la Session
+
+## Actes ou Scènes
+
+### Description
+
+### Choses à Faire
+
+---
+
+# Résumé de la Session
 
 
 
@@ -46,46 +78,11 @@ tags: #session
 
 ---
 
-## 🏠 Administration
-
-- [ ]
-
----
-
-## 🔄 Récapitulatif
-
-![[<%*  
-const files = app.vault.getMarkdownFiles()  
-.filter(f => f.path.includes(`${campagne}/Sessions`) && f.basename !== title)  
-.sort((a, b) => b.basename.localeCompare(a.basename));  
-files.length > 0 ? files[0].basename : "Session Précédente"  
-%>#^summary]]
-
----
-
-## ✨ Accroche Forte
-
----
-
-## 🎭 Scènes
-
-- [ ] 
-
----
-
-## 🔍 Secrets et Indices
-
-- [ ] 
-
----
-
-## 💰 Butin
-
-- [ ] 
-
----
-
 ## 📜 Journal de Session
 
-- 
+```dataview
+LIST
+FROM "${campagne}/Sessions"
+SORT file.name DESC
+```
 

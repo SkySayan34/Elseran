@@ -8,59 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1a02a8ab1079ee2",
+            "id": "b7a016b506b5c745",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Géographie/Dhar'Zulun/Akhzir.md",
+                "file": "One Shot/Quêtes/Le Dilemme de Drey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Akhzir"
-            }
-          },
-          {
-            "id": "04984239cbbb2763",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PJ/Disa Pear.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Disa Pear"
-            }
-          },
-          {
-            "id": "6be0717624dddafd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fantômes de Mirenfeld.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fantômes de Mirenfeld"
-            }
-          },
-          {
-            "id": "95f8192af5baaf33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "La médaillon de Çaph.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La médaillon de Çaph"
+              "title": "Le Dilemme de Drey"
             }
           }
         ]
@@ -185,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fantômes de Mirenfeld.md",
+                "file": "Ménagerie étrange vhalarion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Fantômes de Mirenfeld"
+              "title": "Plan"
             }
           },
           {
@@ -244,45 +202,48 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "a1a02a8ab1079ee2",
+  "active": "b7a016b506b5c745",
   "lastOpenFiles": [
-    "Culte du Néant/Sessions/desktop.ini",
-    "Culte du Néant/desktop.ini",
-    "Géographie/Dhar'Zulun/Dhar'Zulun.md",
-    "Géographie/Dhar'Zulun/Akhzir.md",
-    "Culte du Néant/Sessions/Session 01 - Le médaillon de Çaph.md",
-    "PJ/Disa Pear.pdf",
-    "Géographie/Dhar'Zulun",
-    "PJ",
-    "PJ",
-    "Ertuk.md",
-    "PJ/Disa Pear.md",
-    "Fantômes de Mirenfeld.md",
-    "Templates/Chapitre.md",
-    "La médaillon de Çaph.md",
+    "PNJ/Maître Anselme.md",
+    "One Shot/Quêtes/Le Dilemme de Drey.md",
+    "PNJ/Shérif Aldric.md",
     "Templates/PNJ.md",
-    "Templates/Lieux.md",
-    "Géographie/Elseran/Thal'Myrrun/Vhalren.md",
-    "Géographie/Elseran/Thal'Myrrun",
-    "Géographie/Elseran",
-    "Elseran/Thal'Myrrun/Vhalren.md",
-    "Elseran/Thal'Myrrun",
-    "Elseran",
-    "Templates/Session.md",
-    "Culte du Néant/Sessions/Session 02 - à la recherche du gragment de harpe -.md",
-    "Templates/Société.md",
     "Templates/Quête.md",
-    "test/Test PNJ.md",
-    "Culte du Néant/Sessions/Sans titre.md",
-    "Culte du Néant/Sessions",
+    "PNJ/Gorrick le Sanglant.md",
+    "Géographie/Vhalarion/Périphérie de Vhalarion Prime/Drey.md",
+    "Géographie/Vhalarion/Périphérie de Vhalarion Prime/Périphérie de Vhalarion Prime.md",
+    "Géographie/Vhalarion/Vhalarion.md",
+    "Géographie/Vhalarion/desktop.ini",
+    "Vhalarion/Périphérie de Vhalarion Prime/desktop.ini",
+    "Vhalarion/desktop.ini",
+    "Géographie/Vhalarion/Périphérie de Vhalarion Prime",
+    "Géographie/Vhalarion",
+    "One Shot/Quêtes/desktop.ini",
+    "One Shot/desktop.ini",
+    "Templates/Session.md",
+    "One Shot/Quêtes",
+    "Sans titre",
+    "One Shot",
+    "à trier/Bestiaire de Ménagerie Mystique.md",
+    "Testeur.md",
+    "Templates/Société.md",
+    "Templates/Statblock.md",
+    "Templates/Lieux.md",
+    "PNJ/Test PNJ.md",
+    "Géographie/Test géo.md",
+    "Géographie/Monts d'Elseran.md",
+    "Templates/Chapitre.md",
+    "Chant des Cendres/Chant des Cendres.md",
     "Templates/Arc.md",
-    "Sans titre.md",
-    "Chant des Cendres/Arcs/A Mirenfeld.md",
-    "Chant des Cendres/Quêtes/Meurtres de la Taverne des Abysses.md",
-    "Chant des Cendres/Quêtes/Quete test.md",
-    "Géographie/Sylve d'Aerwyn/Khor'Vélyss.md",
-    "Géographie/Sylve d'Aerwyn/Sylve d'Aerwyn.md",
-    "carte_placeholder.jpg",
+    "à trier/Ménagerie étrange vhalarion.md",
+    "Chant des Cendres/Sessions/Session 03 - test.md",
+    "Chant des Cendres/Sessions/Session 02 - test.md",
+    "Chant des Cendres/Sessions/Session 01 - test.md",
+    "Chant des Cendres/Sessions/Session 01 - Première Partie de Danse Macabre.md",
+    "PNJ/Images Library/Grognard.jpg",
+    "Objets/Images Library/Médaillon de Çaph.jpg",
+    "PNJ/Images Library/Kael'Thir Ombreplume.png",
+    "à trier/carte_placeholder.jpg",
     "Sans titre.canvas",
     "Chant des Cendres/Chapitres/Images Library/Danse Macabre/battlemap chapelle de l'ordre divin.webp",
     "Chant des Cendres/Chapitres/Images Library/Danse Macabre/Chambre de Valerian.jpg",
@@ -290,9 +251,6 @@
     "Chant des Cendres/Chapitres/Images Library/Danse Macabre/cicatrices de l'ordre divin sacrifice.webp",
     "Chant des Cendres/Chapitres/Images Library/Danse Macabre/Chapelle abandonnée.jpg",
     "Chant des Cendres/Chapitres/Images Library/Danse Macabre/Macabre dans la ruelle.jpg",
-    "Chant des Cendres/Chapitres/Images Library/Danse Macabre/Taverne des Abysses sous-sol.jpg",
-    "Chant des Cendres/Chapitres/Images Library/Danse Macabre/Taverne des Abysses.jpg",
-    "PNJ/Images Library/Valérian.jpg",
     "Sans titre 1.canvas"
   ]
 }

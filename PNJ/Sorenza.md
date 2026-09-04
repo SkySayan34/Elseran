@@ -4,7 +4,7 @@ nom: Sorenza
 statut: Vivant
 faction: "[[Ordre du Souffle]]"
 groupe: Tenancière de l'[[Auberge du Chêne Vert]]
-lieu: Auberge du Chêne Vert
+lieu: Elseran/Sylve d'Aerwyn/Frondains/Mirenfeld/Quais des Mondes/Auberge du Chêne Vert
 alignement: NB
 race: Tabaxi
 classe:

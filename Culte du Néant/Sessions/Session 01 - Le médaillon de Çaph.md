@@ -2,7 +2,7 @@
 type: session
 world: Elseran
 campagne: Culte du Néant
-arc: Disa Pear
+arc: Spin Off Disa Pear
 chapitre: Beginings in Dhar'Zulun
 date: 2026-08-11
 location: Akhzir
