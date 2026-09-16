@@ -6,40 +6,36 @@ if (title.startsWith("Sans titre") || title.startsWith("Untitled") || title === 
     await tp.file.rename(title);
 }
 
-const statut = await tp.system.suggester(["Vivant","Mort","Disparu","Inconnu"],["Vivant","Mort","Disparu","Inconnu"])
-const alignement = await tp.system.suggester(["LB","NB","CB","LN","N","CN","LM","NM","CM"],["LB","NB","CB","LN","N","CN","LM","NM","CM"])
-const race = await tp.system.prompt("Quelle Race ?")
-const classe = await tp.system.prompt("Quelle Classe ?")
-const genre = await tp.system.suggester(["Homme","Femme","Non-Binaire"],["Homme","Femme","Non-Binaire"])
-
 tR += `---
 type: PNJ
-statut: ${statut}
+statut: ${await tp.system.suggester(["Vivant","Mort","Disparu","Inconnu"],["Vivant","Mort","Disparu","Inconnu"])}
 faction:
 fonction:
 lieu:
-alignement: ${alignement}
-race: ${race}
-classe: ${classe}
-genre: ${genre}
+alignement: ${await tp.system.suggester(["LB","NB","CB","LN","N","CN","LM","NM","CM"],["LB","NB","CB","LN","N","CN","LM","NM","CM"])}
+race: ${await tp.system.prompt("Quelle Race ?")}
+classe: ${await tp.system.prompt("Quelle Classe ?")}
+genre: ${await tp.system.suggester(["Homme","Femme","Non-Binaire"],["Homme","Femme","Non-Binaire"])}
 description:
-date_de_création: ${tp.file.creation_date("YYYY-MM-DD")}
+tags : PNJ
 ---
 
 # ${title}
+
+
+`;
+-%>
 
 > [!infobox]+ portrait
 > ![[carte_placeholder.jpg|cover]]
 > ###### Infos Rapides
 > | | |
 > | --- | --- |
-> | **Faction** | \`= link(this.faction)\` |
-> | **Fonction** | \`= this.fonction\` |
-> | **Lieu** | \`= link(this.lieu)\` |
-> | **Statut** | \`= this.statut\` |
+> | **Faction** | `$= dv.fileLink(dv.current().faction)` |
+> | **Fonction** | `$= dv.current().fonction` |
+> | **Lieu** | `$= dv.fileLink(dv.current().lieu)` |
+> | **Statut** | `$= dv.current().statut` |
 
-`;
--%>
 
 ##  Description & Psychologie
 
@@ -65,8 +61,8 @@ date_de_création: ${tp.file.creation_date("YYYY-MM-DD")}
 
 ```dataview
 TABLE description AS "Objectif", statut AS "Statut"
-FROM #quête
-WHERE contains(file.outlinks, this.file.link)
+FROM ""
+WHERE type = "quête" AND contains(file.outlinks, this.file.link)
 ```
 
 

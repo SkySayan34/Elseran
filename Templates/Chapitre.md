@@ -16,29 +16,31 @@ arc: ${arc}
 campagne: ${campagne}
 description: 
 statut: à venir
-date_debut: ${dateDebut}
+tags : chapitre
 ---
 
 # 📖 ${title}
+`;
+%>
 
 > [!infobox]
 > | | |
 > |---|---|
-> | **Arc** | \`= link(this.arc) \` |
-> | **Campagne** | \`= link(this.campagne) \` |
-> | **Statut** | \`= this.statut \` |
-> | **Début** | \`= this.date_debut \` |
+> | **Arc** | `$= dv.fileLink(dv.current().arc)` |
+> | **Campagne** | `$= dv.fileLink(dv.current().campagne)` |
+> | **Statut** | `$= dv.current().arc` |
+
 
 ## 📜 **Résumé**
 
-`;
-%>
+
+
 
 ## Sessions
 
 ```dataview
 LIST
-FROM "${campagne}/Sessions"
+FROM #session 
 WHERE contains(campagne, this.file.name)
 SORT file.name DESC
 ```
@@ -47,7 +49,7 @@ SORT file.name DESC
 
 ```dataview
 TABLE description AS "Objectif", statut AS "Statut"
-FROM "${campagne}/Quêtes"
+FROM #quête
 WHERE contains(chapitre, this.file.name)
 SORT priorité DESC, date_debut ASC
 ```

@@ -1,0 +1,1 @@
+Les éclaireurs sont des combattants des contrées sauvages, versés dans l'art de la chasse et du pistage. On trouve parmi eux des explorateurs et des trappeurs, mais certains endossent des rôles plus martiaux comme archers, chasseurs de primes ou cavaliers.

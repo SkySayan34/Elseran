@@ -17,26 +17,26 @@ chapitre:
 description:
 statut: à venir
 priorité: ${priorite}
-date_debut: ${dateDebut}
-tags: #quête
+tags : quête
 ---
 
 # ${title}
 
+`;
+%>
+
 > [!infobox]
 > | | |
 > |---|---|
-> | **Campagne** | \`= this.campagne \` |
-> | **Arc** | \`= this.arc \` |
-> | **Chapitre** | \`= this.chapitre \` |
-> | **Statut** | \`= this.statut \` |
-> | **Priorité** | \`= this.priorité \` |
+> | **Campagne** |`$= dv.fileLink(dv.current().campagne)` |
+> | **Arc** | `$= dv.fileLink(dv.current().arc)` |
+> | **Chapitre** | `$= dv.fileLink(dv.current().chapitre)` |
+> | **Statut** | `$= dv.current().statut` |
+> | **Priorité** | `$= dv.current().priorité` |
 
 ## 📜 **Description**
 
 
-`;
-%>
 
 ##  **Objectifs**
 
@@ -61,7 +61,7 @@ tags: #quête
 
 ```dataview
 LIST
-FROM "${campagne}/Sessions"
+FROM #session
 WHERE contains(file.outlinks, this.file.link)
 SORT date ASC
 ```

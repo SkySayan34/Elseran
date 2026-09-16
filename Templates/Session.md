@@ -16,21 +16,23 @@ campagne: ${campagne}
 arc:
 chapitre:
 date: ${dateReelle}
-location:
+lieu:
+tags : session
 ---
 
 # ${title}
 
+`;
+%>
+
 > [!infobox]
 > | | |
 > |---|---|
-> | **Campagne** | \`= link(this.campagne) \` |
-> | **Arc** | \`= link(this.arc) \` |
-> | **Chapitre** | \`= link(this.chapitre) \` |
-> | **Date** | \`= this.date \` |
-> | **Lieu** | \`= link(this.location) \` |
-`;
-%>
+> | **Campagne** | `$= dv.fileLink(dv.current().campagne)` |
+> | **Arc** | `$= dv.fileLink(dv.current().arc)` |
+> | **Chapitre** |  `$= dv.fileLink(dv.current().chapitre)` |
+> | **Lieu** |  `$= dv.fileLink(dv.current().lieu)` |
+
 
 # Récapitulatif
 
@@ -82,7 +84,8 @@ if (previousSession) {
 
 ```dataview
 LIST
-FROM "${campagne}/Sessions"
+FROM #session 
+WHERE contains(campagne, this.campagne)
 SORT file.name DESC
 ```
 

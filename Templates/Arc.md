@@ -19,22 +19,25 @@ date_debut: ${dateDebut}
 
 # 🌌 ${title}
 
+`;
+%>
+
 > [!infobox]
 > | | |
 > |---|---|
-> | **Campagne** | \`= this.campagne \` |
-> | **Statut** | \`= this.statut \` |
-> | **Début** | \`= this.date_debut \` |
+> | **Campagne** | `$= dv.fileLink(dv.current().campagne)` |
+> | **Statut** | `$= dv.current().statut` |
+
 
 ## 📜 **Résumé**
 
-%>
+`$= dv.current(). description`
 
 ## Chapitres
 
 ```dataview
 TABLE description AS "Description", statut AS "Statut", date_debut AS "Début"
-FROM "${campagne}/Chapitres"
+FROM #chapitre
 WHERE contains(arc, this.file.name)
 SORT date_debut ASC
 ```
@@ -43,7 +46,7 @@ SORT date_debut ASC
 
 ```dataview
 TABLE description AS "Description", statut AS "Statut", priorité AS "Priorité"
-FROM "${campagne}$/Quêtes"
+FROM #quête
 WHERE contains(arc, this.file.name)
 SORT priorité DESC, date_debut ASC
 ```
@@ -51,7 +54,7 @@ SORT priorité DESC, date_debut ASC
 
 ```dataview
 LIST
-FROM "${campagne}/Sessions"
+FROM #session
 WHERE contains(arc, this.file.name)
 SORT file.name DESC
 ```

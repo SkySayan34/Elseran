@@ -2,8 +2,8 @@
 type: faction
 nom: Ordre du Souffle
 categorie: Guilde
-quartier_general: "[[Auberge du Chêne Doré]]"
-dirigeant: "[[Zéphirae Anemoi]]"
+quartier_general: Auberge du Chêne Doré
+dirigeant: Zéphirae Anemoi
 alignement: LB
 influence: Haute
 cree_le: 2026-06-13
@@ -18,7 +18,7 @@ cree_le: 2026-06-13
 > | --- | --- |
 > | **Catégorie** | `$= dv.current().categorie` |
 > | **QG Principal** | `$= dv.current().quartier_general` |
-> | **Dirigeant** | `$= dv.current().dirigeant` |
+> | **Dirigeant** | `$= dv.fileLink(dv.current().dirigeant)` |
 > | **Influence** | `$= dv.current().influence` |
 
 ## 👁️ Présentation & Philosophie

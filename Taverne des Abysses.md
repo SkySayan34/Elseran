@@ -1,27 +1,13 @@
-<%*
-// Prompt Templater pour nommer la note à la création
-let title = tp.file.title;
-if (title.startsWith("Untitled") || title.startsWith("Sans titre") || title === "Template Lieu") {
-    title = await tp.system.prompt("Nom du Lieu :");
-    await tp.file.rename(title);
-}
-
-const categorie = await tp.system.suggester(["region", "sous_region", "location", "location_precise"], ["region", "sous_region", "location", "location_precise"])
-const lieu_parent = await tp.system.prompt("Nom du lieu parent :")
-const securite = await tp.system.suggester(["Haute", "Normale", "Dangereux", "Non-civilisé"], ["Haute", "Normale", "Dangereux", "Non-civilisé"])
-
-tR += `---
+---
 type: lieu
-nom: ${title}
-categorie: ${categorie}
-lieu_parent: ${lieu_parent}
-securite: ${securite}
-tags : lieu
+nom: Taverne des Abysses
+categorie: location_precise
+lieu_parent: Creux de l'Anserah
+securite: Normale
+tags: lieu
 ---
 
-# ${title}
-`;
--%>
+# Taverne des Abysses
 
 > [!infobox]+ carte
 > ![[carte_placeholder.jpg|cover]]
@@ -32,21 +18,6 @@ tags : lieu
 > | **Se trouve dans** | `$= dv.fileLink(dv.current().lieu_parent)` |
 > | **Sécurité** | `$= dv.current().securite` |
 
-
-
-```leaflet
-id: leaflet-map-${title}
-image: [[carte_placeholder.jpg]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 1
-maxZoom: 10
-defaultZoom: 7
-unit: meters
-scale: 1
-darkMode: false
-```
 
 ##  Description générale
 *(Écris ici l'ambiance visuelle, l'architecture, le climat ou la première impression des joueurs en arrivant)*

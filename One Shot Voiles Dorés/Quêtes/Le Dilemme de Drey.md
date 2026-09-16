@@ -1,11 +1,11 @@
 ---
 type: quête
 nom: L'Abomination à deux têtes
-campagne: One Shot
+campagne: One Shot Voiles Dorés
 arc:
 chapitre:
 description: Contrat pour chasser une bête à deux têtes, qui est en fait une proie de braconniers
-statut: à venir
+statut: Terminé
 priorité: Out
 date_debut: 2026-09-04
 tags:
@@ -32,36 +32,36 @@ Les joueurs auront alors le choix entre mettre fin à la vie de cette créature 
 
 ##  **Objectifs**
 
-- [ ]  Trouver l'Ettin
-- [ ]  Comprendre qu'il est chassé
-- [ ]  Aider l'Ettin
+- [x]  Trouver l'Ettin
+- [x]  Comprendre qu'il est chassé
+- [x]  Aider l'Ettin
 - [ ]  Le tuer
-- [ ]  S'occuper des Braconniers
+- [x]  S'occuper des Braconniers
 
 ---
 
 ## 👥 **PNJ Impliqués**
 
-
 - [[Maître Anselme]]
-- 
+- [[Brak et Grum]]
+- [[Garrick l'Ecorcheur]]
 ---
 
 ## 🗺️ **Lieux Associés**
 
-- 
+- [[Drey]]
 
 ## **Sessions**
 
 ```dataview
 LIST
-FROM "${campagne}/Sessions"
+FROM "One Shot Voiles Dorés/Sessions"
 WHERE contains(file.outlinks, this.file.link)
 SORT date ASC
 ```
 
 ## 📌 **Récompenses**
 
-- **Expérience** :
-- **Butin** :
+- **Expérience** : Ettin : 1100 XP | Braconniers : Garrick (700 XP) 2 Traqueurs (100 XP chacun) 1 molosse (25 XP) | Total : 1925 XP
+- **Butin** : 150 PO sur les braconniers | 200 PO offerts par le bourgmestre pour service rendu
 - **Autres** :

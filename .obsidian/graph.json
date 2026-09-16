@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "path:Cosmologie  ",
+      "query": "tag:#quête  ",
       "color": {
         "a": 1,
         "rgb": 14068060
@@ -53,6 +53,6 @@
   "repelStrength": 12.5,
   "linkStrength": 0.395833333333333,
   "linkDistance": 148,
-  "scale": 0.7314405278420699,
-  "close": false
+  "scale": 0.9267559335308649,
+  "close": true
 }

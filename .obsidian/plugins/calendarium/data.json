@@ -1,0 +1,263 @@
+{
+  "autoParse": true,
+  "calendars": [
+    {
+      "name": "Calendrier des Cieux Jumelés",
+      "description": "",
+      "id": "ID_2aaac9ba79fa",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Arsel",
+            "id": "ID_18c9e94b694b"
+          },
+          {
+            "type": "day",
+            "name": "Velm",
+            "id": "ID_3acab91b2a8a"
+          },
+          {
+            "type": "day",
+            "name": "Thyr",
+            "id": "ID_ea69fb9a19a8"
+          },
+          {
+            "type": "day",
+            "name": "Nymé",
+            "id": "ID_3b6bfb6a793a"
+          },
+          {
+            "type": "day",
+            "name": "Karel",
+            "id": "ID_19eb4aeb4a1a"
+          },
+          {
+            "type": "day",
+            "name": "Orren",
+            "id": "ID_cabacb194859"
+          },
+          {
+            "type": "day",
+            "name": "Soryn",
+            "id": "ID_284a6a7948f9"
+          },
+          {
+            "type": "day",
+            "name": "Elyr",
+            "id": "ID_19eac82b9bdb"
+          },
+          {
+            "type": "day",
+            "name": "Farn",
+            "id": "ID_0b3abadbd9da"
+          },
+          {
+            "type": "day",
+            "name": "Liréa",
+            "id": "ID_8bfb492b0a49"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Lunaris",
+            "length": 60,
+            "id": "ID_cb19287b78e8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Nédrion",
+            "length": 60,
+            "id": "ID_19abcb89d979",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Cendralis",
+            "length": 60,
+            "id": "ID_f8991b8bc808",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Solnéris",
+            "length": 60,
+            "id": "ID_a8297b1b380b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mornéa",
+            "length": 60,
+            "id": "ID_bb2828d93bc8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Myrrhal",
+            "length": 60,
+            "id": "ID_8b9ab9597a2a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Thalven",
+            "length": 60,
+            "id": "ID_680a188ae928",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Télonis",
+            "length": 60,
+            "id": "ID_fb09d9dba87b",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Aureas",
+            "cycle": 480,
+            "offset": 0,
+            "faceColor": "#eeff00",
+            "shadowColor": "#950404",
+            "id": "ID_3b39f8bb6979"
+          },
+          {
+            "name": "Myrrhen",
+            "cycle": 60,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000",
+            "id": "ID_38dacb4b4998"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 1,
+        "padDays": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_aba9fbcb1b3a",
+            "name": "Galûn",
+            "type": "Periodic",
+            "color": "#caffad",
+            "duration": 120,
+            "peak": 60,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_2909182beb2a",
+            "name": "Tharûn",
+            "type": "Periodic",
+            "color": "#ee7777",
+            "duration": 120,
+            "peak": 60,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_dba9cbfb697a",
+            "name": "Dravûn",
+            "type": "Periodic",
+            "color": "#e78f13",
+            "duration": 120,
+            "peak": 60,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_b9cb480859b9",
+            "name": "Orûn",
+            "type": "Periodic",
+            "color": "#4496ee",
+            "duration": 120,
+            "peak": 60,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1731650706,
+          "tempUnits": "Metric",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 40,
+        "month": 6,
+        "year": 403
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#event",
+      "dateFormat": "DD-MM-YYYY"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_2aaac9ba79fa",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

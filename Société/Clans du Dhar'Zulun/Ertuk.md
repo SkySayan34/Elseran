@@ -1,24 +1,14 @@
-<%*
-// Prompt Templater pour nommer la note à la création
-let title = tp.file.title;
-if (title.startsWith("Sans titre") || title.startsWith("Untitled") || title === "Template Faction") {
-    title = await tp.system.prompt("Nom de la société :");
-    await tp.file.rename(title);
-}
-
-tR += `---
+---
 type: faction
-categorie: ${await tp.system.prompt("Catégorie :")}
+categorie: Clan
 quartier_general:
-dirigeant: 
-influence:  ${await tp.system.suggester(["Totale","Haute","Modérée","Faible","Secrète"],["Totale","Haute","Modérée","Faible","Secrète"])}
-cree_le: ${tp.file.creation_date("YYYY-MM-DD")}
-tags : société
+dirigeant:
+influence: Faible
+cree_le: 2026-09-16
+tags: société
 ---
 
-# 🛡️ Organisation : ${title}
-`;
--%>
+# 🛡️ Organisation : Ertuk
 > [!infobox]+ blason
 > ![[carte_placeholder.jpg|cover]]
 > ###### Fiche d'identité
@@ -32,8 +22,8 @@ tags : société
 
 ## 👁️ Présentation & Philosophie
 
-* **Devise / Dicton :** 
-* **Doctrine / Objectif :** 
+* **Devise / Dicton :** *Par le sable nous naissons, par les poings nous mourrons*
+* **Doctrine / Objectif :** Subsister en Dhar'Zulun
 * **Ressources & Moyens :** *(Richesse, armée, magie, réseau d'espionnage...)*
 
 - 
@@ -46,14 +36,13 @@ tags : société
 ## 🧭 Relations Extérieures
 
 * **Alliés :** 
-* **Rivalités / Ennemis :** 
+* **Rivalités / Ennemis :** les autres [[Clans du Dhar'Zulun]].
 
 ---
 
 ## Registre des Membres
 
 ### 👥 Membres et Affiliés (PJ & PNJ)
-*Cette liste est automatique. Elle utilise la méthode textuelle "blindée" pour trouver tous les PNJ et PJ dont la propriété `faction` contient le nom de cette note.*
 
 ```dataview
 TABLE groupe AS "Groupe / Rôle", faction AS "Faction", statut AS "Statut"

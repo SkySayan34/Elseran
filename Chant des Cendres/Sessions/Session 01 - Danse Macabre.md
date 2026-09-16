@@ -1,25 +1,42 @@
 ---
-type: chapitre
-nom: Danse Macabre
-arc: A Mirenfeld
+type: session
 campagne: Chant des Cendres
-description: Des meurtres ont lieu proche de la [[Taverne des Abysses]]. Vox Ceneris doit trouver les coupables.
-statut: Terminé
-tags: chapitre
+arc: A Mirenfeld
+chapitre: Danse Macabre
+lieu: Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld
+tags: session
 ---
 
-# 📖 Danse Macabre
+# Session 01 - Danse Macabre
+
 
 
 > [!infobox]
 > | | |
 > |---|---|
-> | **Arc** | `$= dv.fileLink(dv.current().arc)` |
 > | **Campagne** | `$= dv.fileLink(dv.current().campagne)` |
-> | **Statut** | `$= dv.current().arc` |
+> | **Arc** | `$= dv.fileLink(dv.current().arc)` |
+> | **Chapitre** |  `$= dv.fileLink(dv.current().chapitre)` |
+> | **Lieu** |  `$= dv.fileLink(dv.current().lieu)` |
 
 
-## 📜 **Résumé**
+# Récapitulatif
+
+
+
+---
+
+# Préparation de la Session
+
+## Actes ou Scènes
+
+### Description
+
+### Choses à Faire
+
+---
+
+# Résumé de la Session
 
 [[Vox Cineris]] a été envoyé pour leur première mission par l'[[Ordre du Souffle]]. Ils doivent enquêter sur des morts autour de la [[Taverne des Abysses]]. Ils ont pour mission de retrouver les coupables.
 
@@ -31,22 +48,16 @@ Ils n'hésitent pas une seconde et tuent ces servants de l'[[Ordre Impérial de 
 
 Ils ramènent ensuite le demi elfe dans un lieu d'accueil avant de rentrer à [[L'Auberge du Chêne Vert]]. 
 
+^summary
 
-## Sessions
+---
+
+## 📜 Journal de Session
 
 ```dataview
 LIST
 FROM #session 
-WHERE contains(campagne, this.file.name)
+WHERE contains(campagne, this.campagne)
 SORT file.name DESC
-```
-
-## Quêtes
-
-```dataview
-TABLE description AS "Objectif", statut AS "Statut"
-FROM #quête
-WHERE contains(chapitre, this.file.name)
-SORT priorité DESC, date_debut ASC
 ```
 

@@ -1,21 +1,21 @@
 ---
 type: PNJ
 statut: Vivant
-faction: Mestre de village de l'Empire
-fonction: Bourgmestre de Drey
+faction:
+fonction:
 lieu: Vhalarion/Périphérie de Vhalarion Prime/Drey
-alignement: LB
-race: Humain
+alignement: CN
+race: Ettin
 classe:
 genre: Homme
-description:
-date_de_création: 2026-09-04
+description: Un Ettin (descendant géant bicéphale) pourchassé par des braconniers
+date_de_création: 2026-09-06
 ---
 
-# Maître Anselme
+# Brak et Grum
 
 > [!infobox]+ portrait
-> ![[Maître Anselme.jpg|cover]]
+> ![[Brak et Grum.jpg|cover]]
 > ###### Infos Rapides
 > | | |
 > | --- | --- |
@@ -27,9 +27,9 @@ date_de_création: 2026-09-04
 
 ##  Description & Psychologie
 
-* **Apparence :** Homme longue barbe poivre et sel, traits du visage fatigués.
-* **Personnalité :** Voix anxieuse, se frotte nerveusement les mains, sent la bière aigre et le cuir mouillé.
-* **Motivation principale :** Veut sécuriser le village au plus vite avant l'arrivée du percepteur impérial. Offre 250 po pour la tête du monstre.
+* **Apparence :** Monstre de 3m de haut à deux têtes. Celle de gauche a les dents du bas qui ressortent, et les sourcils toujours froncés, tandis que celle de droite a un léger strabisme et a le regard suppliant.
+* **Personnalité :** Grum est agressif, méfiant, Brak est plaintif, suppliant et s'exprime comme un enfant.
+* **Motivation principale :** Trouver un refuge vers Khor'Thélûn.
 * **Secrets / Ce qu'il cache :** 
 
 ##  Notes & Lore
@@ -39,7 +39,7 @@ date_de_création: 2026-09-04
 
 ##  Relations & Connexions
 * **Alliés :** 
-* **Ennemis :** 
+* **Ennemis :** [[Garrick l'Ecorcheur]]
 * **Réseau :** 
 
 ##  Coulisses du MJ

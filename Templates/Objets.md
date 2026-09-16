@@ -29,23 +29,22 @@ niveau: ${niveau}
 requis: ${requis}
 attunement: ${attunement}
 date_de_création: ${dateCreation}
+tags : objet
 ---
 
 # ${title}
+
+`;
+-%>
 
 > [!infobox]+ image
 > ![[carte_placeholder.jpg|cover h small]]
 > ###### Informations générales
 > | | |
 > |---|---|
-> | **Type** | \`= this.catégorie \` |
-> | **Rareté** | \`= this.rareté \` |
-> | **Sous-catégorie** | \`= this.sous_catégorie \` |
-> | **Niveau** | \`= this.niveau \` |
-> | **Attunement** | \`= this.attunement \` |
-> | **Requis** | \`= this.requis \` |
-
-`;
--%>
-
-
+> | **Type** | `$= dv.current().catégorie` |
+> | **Rareté** | `$= dv.current().rareté` |
+> | **Sous-catégorie** | `$= dv.current().sous_catégorie` |
+> | **Niveau** | `$= dv.current().niveau`|
+> | **Attunement** | `$= dv.current().attunement` |
+> | **Requis** | `$= dv.current().requis` |

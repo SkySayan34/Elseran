@@ -1,21 +1,21 @@
 ---
 type: PNJ
-statut: Vivant
-faction: Mestre de village de l'Empire
-fonction: Bourgmestre de Drey
+statut: Mort
+faction:
+fonction: Chef d'une troupe de braconniers
 lieu: Vhalarion/Périphérie de Vhalarion Prime/Drey
-alignement: LB
+alignement: NM
 race: Humain
 classe:
 genre: Homme
-description:
-date_de_création: 2026-09-04
+description: Un braconnier arrogant et qui n'hésite pas à faire ce qu'il faut pour obtenir ce qu'il désire
+date_de_création: 2026-09-06
 ---
 
-# Maître Anselme
+# Garrick l'Ecorcheur
 
 > [!infobox]+ portrait
-> ![[Maître Anselme.jpg|cover]]
+> ![[Garrick l'Ecorcheur.jpg|cover]]
 > ###### Infos Rapides
 > | | |
 > | --- | --- |
@@ -27,19 +27,19 @@ date_de_création: 2026-09-04
 
 ##  Description & Psychologie
 
-* **Apparence :** Homme longue barbe poivre et sel, traits du visage fatigués.
-* **Personnalité :** Voix anxieuse, se frotte nerveusement les mains, sent la bière aigre et le cuir mouillé.
-* **Motivation principale :** Veut sécuriser le village au plus vite avant l'arrivée du percepteur impérial. Offre 250 po pour la tête du monstre.
+* **Apparence :** Un homme d'âge moyen, au regard froid et calculateur. Il mâche un bout de racine amère
+* **Personnalité :** Parle d'une voix posé mais tranchante, arrogant face aux aventuriers, opportuniste
+* **Motivation principale :** Capturer [[Brak et Grum]] pour honorer son contrat de 600PO avec un seigneur voisin.
 * **Secrets / Ce qu'il cache :** 
 
 ##  Notes & Lore
 *(Raconte ici son histoire, son passif avec les PJ ou son rôle actuel dans l'intrigue)*
 
-- 
+- Son groupe et lui sont en chasse de ce monstre depuis quelques semaines, ils le traquent et ont finis par tomber sur son habitat. Ils ont tué la famille du Monstre pour l'appâter mais il s'est enfuit à [[Drey]]
 
 ##  Relations & Connexions
 * **Alliés :** 
-* **Ennemis :** 
+* **Ennemis :** [[Brak et Grum]]
 * **Réseau :** 
 
 ##  Coulisses du MJ

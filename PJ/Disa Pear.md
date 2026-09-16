@@ -10,6 +10,8 @@ classe: Occultiste
 genre: Homme
 description: Commandant en chef du Culte du Néant dédié à Dhargam, il dirige la sous-branche cherchant à détruire la matière.
 date_de_création: 2026-08-11
+tags:
+  - pnj
 ---
 
 # Disa Pear
@@ -62,3 +64,4 @@ FROM #session
 WHERE contains(file.outlinks, this.file.link)
 SORT file.ctime DESC
 ```
+[[médaillon de Çaph]]
