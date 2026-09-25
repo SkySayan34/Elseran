@@ -62,7 +62,7 @@ tags:
 
 ```dataview
 TABLE groupe AS "Groupe / Rôle", faction AS "Faction", statut AS "Statut"
-FROM #PNJ AND #PJ
+FROM #PNJ OR #PJ
 WHERE contains(list(faction), this.file.name)
 SORT file.name ASC
 ```
