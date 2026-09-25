@@ -37,7 +37,7 @@ Rogier n'est pas au courant que le clan Khorion est impliqué. Pour lui, hier so
 Sa femme s'appelle Issandra.
 
 Rogier des Esseulés qui contrôle le quai des mondes (contrebandes, drogues, ...)
-Kae'Lundril signe un serment magique : il ne doit pas parlé de cette discussion à quique ce soit. Il devra tué qui que ce soit qui en parle. Il devra chercher à rechercher le parrain des Esseulés à tout pris.
+Kae'Lundril signe un serment magique : il ne doit pas parlé de cette discussion à qui que ce soit. Il devra tué qui que ce soit qui en parle. Il devra rechercher le parrain des Esseulés à tout pris.
 Seigneur Ludwig (parrain des Esseulés, description à venir)
 
 ### Equipe 2 :
@@ -59,3 +59,23 @@ Après un soin du paladin, une carreau lui transperce le crâne semant la paniqu
 
 Très (trop) long combat. Fuite. On retrouve ce qui semble être un accès à subracine (myrr'nhalion est déjà au courant on ne sait pas pourquoi). Les assaillants ayant tué Kaeren semblent être ici d'après l'épine mentale de Myrr'Nhalion.
 
+## Session 4
+
+On est entré à subracine.
+On a volé des fringues, le paladin et le clerc sont rentrés par derrière dans un casino. Nous on est rentré déguisés par devant (je m'appelle myrr'nhalion, kyr dharun est var ashyr, et eilys s'appelle Michelle).
+Ils servent une boisson à base de résine du myr'sylva
+
+Kar'tyl korhion joue au black aureos avec moi, il invite myrr'nhalion et finit par nous inviter à aller jouer en privée avec lui.
+
+Salle VIP : 5 chefs de pègre:
+- Midra, chef de la famille **Mor'Neru** (Elfe): appartient à la noblesse de Mirenfeld, contrôle _l'Ecorce-Haute_.
+- Dame Solenia, Marraine des **Ner'ion** (Alfelin) : issue d'une grande lignée d'Alfelin,
+- Maître Goetard, Descendant des **Var'ar** (Gnomes) X : contrôle les _Terres_
+- Soeur Pricilla, grande Cheffe de la famille **Thar'Kyr** (Nain): Contrôle le _Pavé des ouvriers_. Fournis des armes a d'autres clans ou particulier sous conditions.
+- Patron Ludwig des Esseulés
+- Père Kar'Tyl Khorion.
+
+Il y a un grand patriarche.
+
+Khorion, esseulés, et midra prennent en otage les autres.
+Branche Gal'ethis de la famille de Eidmor nous ont envoyé un shapeshifter sous  la forme de Myrr'Nhalion. Elle m'attaque.

@@ -1,15 +1,13 @@
 ---
 type: faction
-categorie: Clan du Dhar'Zulun
+categorie: Groupe
 quartier_general:
-dirigeant: Grushnak des Ertuk
-influence: Faible
 tags: société
 ---
 
-# 🛡️ Organisation : Ertuk
-> [!infobox]+ blason
-> ![[Clan Ertuk.png|cover]]
+# 🛡️ Groupe : Vox Cineris
+
+> [!infobox]
 > ###### Fiche d'identité
 > | | |
 > | --- | --- |
@@ -19,13 +17,6 @@ tags: société
 > | **Influence** | `$= dv.current().influence` |
 
 
-## 👁️ Présentation & Philosophie
-
-* **Devise / Dicton :** *Par le sable nous naissons, par les poings nous mourrons*
-* **Doctrine / Objectif :** Subsister dans le Dhar'Zulun, Dominer ses enemis
-* **Ressources & Moyens :** *(Richesse, armée, magie, réseau d'espionnage...)*
-
-- une 30aine d'orcs
 
 ## 📜 Histoire & Secrets
 *(Les origines de la faction, ses anciens dirigeants, ses rivalités historiques et ce qu'elle cache au grand public)*
@@ -34,8 +25,8 @@ tags: société
 
 ## 🧭 Relations Extérieures
 
-* **Alliés :** 
-* **Rivalités / Ennemis :** 
+* **Alliés :** [[Société/Ordre du Souffle]]
+* **Rivalités / Ennemis :** [[Culte du Néant]]
 
 ---
 
@@ -45,8 +36,8 @@ tags: société
 *Cette liste est automatique. Elle utilise la méthode textuelle "blindée" pour trouver tous les PNJ et PJ dont la propriété `faction` contient le nom de cette note.*
 
 ```dataview
-TABLE fonction AS "Groupe / Rôle", faction AS "Faction", statut AS "Statut"
-FROM #PNJ OR #PJ
-WHERE contains(faction, this.file.name)
+TABLE groupe AS "Groupe / Rôle", faction AS "Faction", statut AS "Statut"
+FROM #PNJ AND #PJ
+WHERE contains(list(faction), this.file.name)
 SORT file.name ASC
 ```

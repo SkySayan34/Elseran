@@ -25,7 +25,7 @@ tags: quête
 
 ## 📜 **Description**
 
-[[Vox Cineris]] a été envoyé pour leur première mission par l'[[Ordre du Souffle]]. Ils doivent enquêter sur des morts autour de la [[Taverne des Abysses]]. Ils ont pour mission de retrouver les coupables.
+[[Vox Cineris]] a été envoyé pour leur première mission par l'[[Société/Ordre du Souffle]]. Ils doivent enquêter sur des morts autour de la [[Taverne des Abysses]]. Ils ont pour mission de retrouver les coupables.
 
 ##  **Objectifs**
 

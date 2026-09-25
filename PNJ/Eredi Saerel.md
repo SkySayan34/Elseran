@@ -26,7 +26,7 @@ date_de_création: 2026-06-15
 > | **Statut** | `$= dv.current().statut` |
 
 ## 👤 Description & Psychologie
-* **Apparence :** Vieil humain à la longue barbe grise, portant des vêtements amples et sombres, typique des scribes. Il a une chevalière portant le blason de l'[[Ordre des Scribes]] et un pendentif de l'[[Ordre du Souffle]]. Ses yeux sont petits et pétillants de malices, bien qu'entourés de larges cernes se cachant derrière des lunettes ronde.
+* **Apparence :** Vieil humain à la longue barbe grise, portant des vêtements amples et sombres, typique des scribes. Il a une chevalière portant le blason de l'[[Ordre des Scribes]] et un pendentif de l'[[Société/Ordre du Souffle]]. Ses yeux sont petits et pétillants de malices, bien qu'entourés de larges cernes se cachant derrière des lunettes ronde.
 * **Personnalité :** Rieur, un peu fou, mais très sage.
 * **Motivation principale :** Recueillir toutes les infos sur l'Histoire d'Elseran.
 * **Secrets / Ce qu'il cache :** Il a par le passé fait un pacte avec un [[Démon]] pour acquérir un livre légendaire.
@@ -39,7 +39,7 @@ date_de_création: 2026-06-15
 ## 🔗 Relations & Connexions
 * **Alliés :** [[Sorenza]]
 * **Ennemis :** 
-* **Réseau :** [[Ordre du Souffle]] ; [[Ordre des Scribes]] 
+* **Réseau :** [[Société/Ordre du Souffle]] ; [[Ordre des Scribes]] 
 
 ## 🛠️ Coulisses du MJ (Dataview)
 *Cette section se remplit automatiquement si d'autres notes (quêtes, sessions, rumeurs) mentionnent ce PNJ.*

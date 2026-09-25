@@ -25,7 +25,7 @@ tags:
 
 ## 📜 **Description**
 
-Les voiles de l'[[Ordre du Souffle]] de [[Vhalarion Prime]] sont envoyés dans un village nommé [[Drey]] pour s'occuper d'une abomination à deux têtes qui sévirait dans les parages. En enquêtant, il s'avère que l'abomination, qui se trouve être un [[Ettin]], est en réalité la proie de braconniers l'ayant pousser jusqu'au village voulant à la fois s'accaparer le mérite de chasser un monstre, et ce que peut rapporter un monstre pareil.
+Les voiles de l'[[Société/Ordre du Souffle]] de [[Vhalarion Prime]] sont envoyés dans un village nommé [[Drey]] pour s'occuper d'une abomination à deux têtes qui sévirait dans les parages. En enquêtant, il s'avère que l'abomination, qui se trouve être un [[Ettin]], est en réalité la proie de braconniers l'ayant pousser jusqu'au village voulant à la fois s'accaparer le mérite de chasser un monstre, et ce que peut rapporter un monstre pareil.
 
 Les joueurs auront alors le choix entre mettre fin à la vie de cette créature puis combattre les braconniers désirant s'attribuer le mérite, ou bien aider la bête à retrouver un lieu propice pour elle et mettre aux fers les braconniers.
 

@@ -10,7 +10,7 @@ tags: lieu
 # Taverne des Abysses
 
 > [!infobox]+ carte
-> ![[carte_placeholder.jpg|cover]]
+> ![[Géographie/Images Library/Taverne des Abysses.jpg]]
 > ###### Repères
 > | | |
 > | --- | --- |
@@ -22,7 +22,7 @@ tags: lieu
 ##  Description générale
 *(Écris ici l'ambiance visuelle, l'architecture, le climat ou la première impression des joueurs en arrivant)*
 
-- 
+- Un ancien entrepôt relooké en cabaret macabre : fausses toiles d'araignées, serveurs grimés, fumée épaisse, nobles en costume qui boivent du vin rouge "sang de dryade"
 
 ##  Histoire & Lore
 *(Le passé de ce lieu, les événements marquants ou les secrets géographiques)*
@@ -54,3 +54,8 @@ SORT file.name ASC
 ## Impact du jeu sur le lieu
 *(Raconter les éventuels changement qu'ont apportés les joueurs sur le lieu)*
 
+```dataview
+LIST
+FROM #session 
+WHERE contains(file.outlinks, this.file.link)
+```

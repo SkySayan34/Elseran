@@ -40,12 +40,12 @@ tags: PNJ
 ##  Notes & Lore
 *(Raconte ici son histoire, son passif avec les PJ ou son rôle actuel dans l'intrigue)*
 
-- C'est vers lui que se tournent la plupart des aventuriers de l'[[Ordre du Souffle]] pour des renseignements
+- C'est vers lui que se tournent la plupart des aventuriers de l'[[Société/Ordre du Souffle]] pour des renseignements
 - il travaille au [[Chêne Bleu]], relais de l'Ordre à [[Vhalren]]
 
 ##  Relations & Connexions
 
-* **Alliés :** Toutes les personnes de l'[[Ordre du Souffle]] ; [[Eredi Saerel]]
+* **Alliés :** Toutes les personnes de l'[[Société/Ordre du Souffle]] ; [[Eredi Saerel]]
 * **Ennemis :** Aucun ennemi notable.
 * **Réseau :** Le réseau des auberges du Chêne de l'Ordre (Doré à Vhalarion Prime, Vert à Mirenfeld, Bleu à Vhalren), les marchands-bateliers du cours du Souvenir et les pêcheurs du lac Thal'Myrrael qui lui rapportent les curiosités remontées des brumes, .
 
@@ -99,3 +99,7 @@ FROM ""
 WHERE type = "session" AND contains(file.outlinks, this.file.link)
 SORT file.name DESC
 ```
+
+### Liens Out
+[[Ordre du Souffle]]
+[[Auberge du Chêne Bleu]]

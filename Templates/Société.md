@@ -12,7 +12,6 @@ categorie: ${await tp.system.prompt("Catégorie :")}
 quartier_general:
 dirigeant: 
 influence:  ${await tp.system.suggester(["Totale","Haute","Modérée","Faible","Secrète"],["Totale","Haute","Modérée","Faible","Secrète"])}
-cree_le: ${tp.file.creation_date("YYYY-MM-DD")}
 tags : société
 ---
 
@@ -56,8 +55,8 @@ tags : société
 *Cette liste est automatique. Elle utilise la méthode textuelle "blindée" pour trouver tous les PNJ et PJ dont la propriété `faction` contient le nom de cette note.*
 
 ```dataview
-TABLE groupe AS "Groupe / Rôle", faction AS "Faction", statut AS "Statut"
-FROM #PNJ AND #PJ
-WHERE contains(list(faction), this.file.name)
+TABLE fonction AS "Groupe / Rôle", faction AS "Faction", statut AS "Statut"
+FROM #PNJ OR #PJ
+WHERE contains(faction, this.file.name)
 SORT file.name ASC
 ```

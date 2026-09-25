@@ -1,6 +1,6 @@
 ### Scène 1 :
 
-- Rejoindre l'[[Ordre du Souffle]] après avoir discuté avec [[Eredi Saerel]] et [[Sorenza]]. 
+- Rejoindre l'[[Société/Ordre du Souffle]] après avoir discuté avec [[Eredi Saerel]] et [[Sorenza]]. 
 1000 PO de récompense et présentation des accès : Scribe [[Eredi Saerel]] et [[Azimuth Sarvolan]] le magicologue. ==> Groupe : Vox Cineris
 
 - **Première Mission** : Enquêter sur des meurtres autour de la [[Taverne des Abysses]].

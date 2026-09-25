@@ -4,7 +4,7 @@ nom: Zéphirae Anemoi
 statut: Vivant
 groupe: Chef de Guilde
 lieu: "[[[Vhalarion Prime]] ; [[Vhalarion]]]"
-faction: "[[Ordre du Souffle]]"
+faction: "[[Société/Ordre du Souffle]]"
 alignement: LN
 date_de_création: 2026-06-13
 ---

@@ -112,7 +112,7 @@ Le combat est inévitable à moins que les PJ ne cèdent tout leur or et réussi
 ## Epilogue
 
 
-- **Sauvetage réussi :** Les PJ font appelle à l'Ordre du Souffle pour raccompagner [[Brak et Grum]] vers les montagnes en sécurité. S'ils négocient ou mentent à [[Maître Anselme]] ils pourront obtenir leur récompense de 200PO.
+- **Sauvetage réussi :** Les PJ font appelle à l'[[Ordre du Souffle]] pour raccompagner [[Brak et Grum]] vers les montagnes en sécurité. S'ils négocient ou mentent à [[Maître Anselme]] ils pourront obtenir leur récompense de 200PO.
 - **Massacre :** Same pour les récompenses, mais la culpabilité d'avoir tué un innocent vient aussi rejoindre le moral.
 
 ---
@@ -121,7 +121,7 @@ Le combat est inévitable à moins que les PJ ne cèdent tout leur or et réussi
 
 Kyr'Thorun et Aluvial se sont rendu à Drey pour enquêter sur un monstre à deux têtes qui rôdait. Une fois sur place, ils ont rencontrés [[Maître Anselme]] qui leur a expliqué la situation. Ils ont investiguer une grange détruite par le monstre et y ont repérés des traces montrant que le monstre était blessé, et qu'il avait l'air d'être pourchassé.
 En suivant sa piste, les aventuriers ont trouvé son refuge dans une grotte de la forêt. Ils s'y sont infiltrés et sont tombés nez à nez avec [[Brak et Grum]], un [[Ettin]] blessé par des braconniers embauchés pour le tuer.
-Kyr'Thorun et Aluvial l'ont alors soigné et défendu lors d'un affrontement sanglant contre [[Garrick l'Ecorcheur]], chef de l'équipe de braconnier envoyé par la [[Compagnie du Chien Rouge]]. Après leur victoire, ils ont fait appel à l'[[Ordre du Souffle]] afin d'escorter Brak et Grum en un lieu sûr dans les [[Monts du Sud]]. Ils ont ensuite confirmé à [[Maître Anselme]] que le monstre ne causera plus d'ennuis, et sont partis rendre rapport à l'[[Auberge du Chêne Doré]].
+Kyr'Thorun et Aluvial l'ont alors soigné et défendu lors d'un affrontement sanglant contre [[Garrick l'Ecorcheur]], chef de l'équipe de braconnier envoyé par la [[Compagnie du Chien Rouge]]. Après leur victoire, ils ont fait appel à l'[[Société/Ordre du Souffle]] afin d'escorter Brak et Grum en un lieu sûr dans les [[Monts du Sud]]. Ils ont ensuite confirmé à [[Maître Anselme]] que le monstre ne causera plus d'ennuis, et sont partis rendre rapport à l'[[Auberge du Chêne Doré]].
 
 ^summary
 

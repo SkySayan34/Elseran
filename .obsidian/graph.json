@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path: Archives  ",
   "showTags": false,
   "showAttachments": false,
@@ -22,14 +22,14 @@
       }
     },
     {
-      "query": "path:PNJ  ",
+      "query": "tag: PNJ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:Société  ",
+      "query": "tag: #société ",
       "color": {
         "a": 1,
         "rgb": 9961707
@@ -40,6 +40,13 @@
       "color": {
         "a": 1,
         "rgb": 14068060
+      }
+    },
+    {
+      "query": "tag: #divinité  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 12.5,
   "linkStrength": 0.395833333333333,
   "linkDistance": 148,
-  "scale": 0.9267559335308649,
-  "close": true
+  "scale": 0.47149809621492794,
+  "close": false
 }

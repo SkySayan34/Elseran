@@ -38,7 +38,7 @@ tags: session
 
 # Résumé de la Session
 
-[[Vox Cineris]] a été envoyé pour leur première mission par l'[[Ordre du Souffle]]. Ils doivent enquêter sur des morts autour de la [[Taverne des Abysses]]. Ils ont pour mission de retrouver les coupables.
+[[Vox Cineris]] a été envoyé pour leur première mission par l'[[Société/Ordre du Souffle]]. Ils doivent enquêter sur des morts autour de la [[Taverne des Abysses]]. Ils ont pour mission de retrouver les coupables.
 
 En enquêtant sur place, ils rencontrent [[Valérian]], le tenancier de la taverne. Ils décident de l'interroger par des manières douteuses. Ils croisent également le chemin de [[Grognard]] qui garde l'entrée de la taverne et participe au "spectacle".
 

@@ -1,30 +1,20 @@
-<%*
-// Un petit prompt Templater pour nommer ta note proprement à la création
-let title = tp.file.title;
-if (title.startsWith("Sans titre") || title.startsWith("Untitled") || title === "Template PNJ") {
-    title = await tp.system.prompt("Nom du PNJ :");
-    await tp.file.rename(title);
-}
-
-tR += `---
+---
 type: PNJ
-statut: ${await tp.system.suggester(["Vivant","Mort","Disparu","Inconnu"],["Vivant","Mort","Disparu","Inconnu"])}
-faction:
-fonction:
-lieu:
-alignement: ${await tp.system.suggester(["LB","NB","CB","LN","N","CN","LM","NM","CM"],["LB","NB","CB","LN","N","CN","LM","NM","CM"])}
-race: ${await tp.system.prompt("Quelle Race ?")}
-classe: ${await tp.system.prompt("Quelle Classe ?")}
-genre: ${await tp.system.suggester(["Homme","Femme","Non-Binaire"],["Homme","Femme","Non-Binaire"])}
-description:
-tags : PNJ
+statut: Vivant
+faction: Cercle de Lir
+fonction: Haut Druide du Cercle
+lieu: Géographie/Sylve d'Aerwyn/Frondains/Lethariel
+alignement: LB
+race: Elfe Galavorn
+classe: Druide
+genre: Homme
+description: Vieil elfe vouté, haut druide du cercle de Lir
+tags: PNJ
 ---
 
-# ${title}
+# Druan Silme
 
 
-`;
--%>
 
 > [!infobox]+ portrait
 > ![[carte_placeholder.jpg|cover]]
@@ -74,6 +64,8 @@ FROM ""
 WHERE type = "session" AND contains(file.outlinks, this.file.link)
 SORT file.name DESC
 ```
-### Liens Out
-`$= dv.fileLink(dv.current().lieu)`
-`$= dv.fileLink(dv.current().faction)`
+
+### Outlinks
+
+[[Cercle de Lir]]
+[[Lethariel]]

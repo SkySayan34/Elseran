@@ -37,7 +37,7 @@ tags:
 ##  Notes & Lore
 *(Raconte ici son histoire, son passif avec les PJ ou son rôle actuel dans l'intrigue)*
 
-- ancien membre du clan [[Ertuk]] dans le [[Dhar'Zulun]]. Il est devenu chasseur de trésor, a voyagé un peu partout et a fini par rejoindre le [[Culte du Néant]] car il a compris que le monde atteignait sa fin et qu'il fallait l'aider à se réinitialiser.
+- ancien membre du clan [[Société/Clans du Dhar'Zulun/Ertuk]] dans le [[Dhar'Zulun]]. Il est devenu chasseur de trésor, a voyagé un peu partout et a fini par rejoindre le [[Culte du Néant]] car il a compris que le monde atteignait sa fin et qu'il fallait l'aider à se réinitialiser.
 
 ##  Relations & Connexions
 * **Alliés :** 

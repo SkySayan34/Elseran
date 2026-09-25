@@ -17,7 +17,6 @@ const niveau = await tp.system.prompt("Niveau (1-20) :")
 const requis = await tp.system.prompt("Requis (Classe/Niveau/Alignement/Autre, laisser vide si aucun) :")  
 const attunement = await tp.system.suggester(["Oui", "Non"], ["Oui", "Non"])
 
-const dateCreation = tp.file.creation_date("YYYY-MM-DD")
 
 tR += `---
 type: objet_magique
@@ -28,7 +27,6 @@ sous_catégorie: ${sousCatégorie}
 niveau: ${niveau}
 requis: ${requis}
 attunement: ${attunement}
-date_de_création: ${dateCreation}
 tags : objet
 ---
 

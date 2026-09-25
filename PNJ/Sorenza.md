@@ -2,7 +2,7 @@
 type: PNJ
 nom: Sorenza
 statut: Vivant
-faction: "[[Ordre du Souffle]]"
+faction: "[[Société/Ordre du Souffle]]"
 groupe: Tenancière de l'[[Auberge du Chêne Vert]]
 lieu: Elseran/Sylve d'Aerwyn/Frondains/Mirenfeld/Quais des Mondes/Auberge du Chêne Vert
 alignement: NB
@@ -27,7 +27,7 @@ date_de_création: 2026-06-15
 ## 👤 Description & Psychologie
 * **Apparence :** Une tabaxi léopard, habillée de vêtements larges et simple, le sourire aussi large que son décolleté provocateur, une chevelure noire bouclée, un regard félin comme si elle observait sa proie avant l'assaut. Elle a plein de bijoux grodiloquents 
 * **Personnalité :** Provocatrice, parle fort, et rit aussi fort, mais très perspicace.
-* **Motivation principale :** Protéger son auberge, et aider l'Ordre du Souffle et ses aventuriers.
+* **Motivation principale :** Protéger son auberge, et aider l'[[Ordre du Souffle]] et ses aventuriers.
 * **Secrets / Ce qu'il cache :** est une ancienne aventurière ayant dû tuer son groupe qui était corrompu.
 
 ## 📝 Notes & Lore
@@ -38,7 +38,7 @@ date_de_création: 2026-06-15
 ## 🔗 Relations & Connexions
 * **Alliés :** [[Eredi Saerel]]
 * **Ennemis :** 
-* **Réseau :** [[Ordre du Souffle]]
+* **Réseau :** [[Société/Ordre du Souffle]]
 
 ## 🛠️ Coulisses du MJ (Dataview)
 *Cette section se remplit automatiquement si d'autres notes (quêtes, sessions, rumeurs) mentionnent ce PNJ.*
