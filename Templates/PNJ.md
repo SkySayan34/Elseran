@@ -74,6 +74,3 @@ FROM ""
 WHERE type = "session" AND contains(file.outlinks, this.file.link)
 SORT file.name DESC
 ```
-### Liens Out
-`$= dv.fileLink(dv.current().lieu)`
-`$= dv.fileLink(dv.current().faction)`

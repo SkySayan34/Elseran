@@ -1,14 +1,15 @@
 ---
 type: lieu
-nom: Dhar'Zulun
-categorie: region
-lieu_parent: Elseran
-securite: Dangereux
+nom: Akhzir
+categorie: location
+lieu_parent: Croissant Urbain
+securite: Normale
+date_creation: 2026-08-11
 tags:
   - lieu
 ---
 
-# Dhar'Zulun
+# Akhzir
 
 > [!infobox]+ carte
 > ![[carte_placeholder.jpg|cover]]
@@ -37,19 +38,16 @@ darkMode: false
 ##  Description générale
 *(Écris ici l'ambiance visuelle, l'architecture, le climat ou la première impression des joueurs en arrivant)*
 
-- Le Dhar'Zulun est la grande région désertique du **sud-ouest du continent d'[[Elseran]]**. Un désert chaud où les dunes s'étalent à perte de vue ; la plupart des peuples y vivent la nuit ou en souterrain, à l'abri de la morsure du jour.
-    
-- **Frontières.** À l'est, la frontière de l'[[Empire Vhalarionnien|Empire Vhalarionnien]], séparée par la chaîne des **montagnes du Sud** ; au nord-est, [[Khor'Thelûn]], derrière ses montagnes ; au nord, la [[Sylve d'Aerwyn]], au-delà de l'**[[Anserah]]**, l'immense fleuve ; à l'ouest et au sud, les **mers de l'Ouest et du Sud**.
+- Cette ville est un amas de ruine de ce qu'il reste de l'invasion de l'empire vhalarionnien.
 
 ##  Histoire & Lore
 *(Le passé de ce lieu, les événements marquants ou les secrets géographiques)*
 
-- Invasion vhalarionnienne par le sud-est dans le passé, et par la mer — mais qui ne dura que peu de temps, vu le climat aride et le peu de ressources rapportées au coût de l'entreprise. L'Empire a tout de même laissé ses marques : des ruines, dont celles d'[[Akhzir]], et une zone d'influence permanente dans le sud.
-    
-- Les clans orcs du désert vivent sous le **[[Glossaire#Le Prix du Sang - Code des Clans Nomades du Dhar'Zulun|Prix du Sang]]**, le code d'honneur sacré né de la [[Guerre des Sables]] (271–289), tenu par la caste des [[Veilleurs d'Ocre]].
+- 
 
 ##  Points d'intérêt (Sous-lieux)
 *(Si c'est une ville : les tavernes, temples, boutiques. Si c'est une région : les villages, ruines, etc.)*
+
 ```dataview
 LIST
 where contains(type, "lieu") and contains(lieu_parent, this.file.name)

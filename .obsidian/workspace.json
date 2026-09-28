@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "à trier/Glossaire.md",
+                "file": "Naelwyn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glossaire"
-            }
-          },
-          {
-            "id": "912a3c23fc4e1d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PNJ/Grushnak des Ertuk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grushnak des Ertuk"
+              "title": "Naelwyn"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "calendrier",
+                "query": "l'Est",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -265,53 +250,54 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "912a3c23fc4e1d34",
+  "active": "537facc6c27e43be",
   "lastOpenFiles": [
+    "Naelwyn.md",
+    "PNJ/Images Library/Naelwyn.jpg",
+    "PNJ/Images Library/Druan Silme.jpg",
+    "PNJ/Druan Silme.md",
+    "à trier/Glossaire.md",
+    "Géographie/Vhalarion/Périphérie de Vhalarion Prime/Combe-Verte.md",
+    "Géographie/Vhalarion/Périphérie de Vhalarion Prime/Drey.md",
+    "PNJ/Brak et Grum.md",
     "PNJ/Vashk l'Ombre-de-Sel.md",
+    "à trier/Ménagerie étrange vhalarion.md",
+    "Géographie/Dhar'Zulun/Dhar'Zulun.md",
+    "PNJ/Varlag.md",
+    "Géographie/Dhar'Zulun/Dunes Centrales.md",
+    "PNJ/Grushnak des Ertuk.md",
+    "Géographie/Dhar'Zulun/Ouest Interdit.md",
+    "Géographie/Dhar'Zulun/Sud Impérial.md",
+    "Géographie/Dhar'Zulun/Ouest Interdit",
+    "Géographie/Dhar'Zulun/Sud Impérial",
+    "Templates/Arc.md",
+    "Templates/PNJ.md",
+    "Géographie/Dhar'Zulun/Dunes Centrales/Faille d'Ocre.md",
+    "Géographie/Dhar'Zulun/Dunes Centrales/desktop.ini",
+    "Géographie/Dhar'Zulun/Croissant Urbain.md",
+    "Géographie/Dhar'Zulun/Dunes Centrales",
+    "Géographie/Dhar'Zulun/Croissant Urbain/Akhzir.md",
+    "Géographie/Dhar'Zulun/Croissant Urbain",
+    "Géographie/Dhar'Zulun/Sans titre.md",
+    "Société/Clans du Dhar'Zulun/Ertuk.md",
+    "PJ/Disa Pear.md",
+    "Templates/Lieux.md",
     "PNJ/Images Library/Vashk l'Ombre de Sel.jpg",
     "PNJ/Images Library/Non confirmé 678521.crdownload",
     "Objets/Fragment du Chant des Cendres.md",
     "Société/Clans du Dhar'Zulun/Veilleurs d'Ocre.md",
-    "Société/Clans du Dhar'Zulun/Ertuk.md",
     "Société/Clans du Dhar'Zulun/Rukh-Tarr.md",
-    "Templates/Société.md",
-    "PNJ/Grushnak des Ertuk.md",
-    "Sans titre.md",
     "Société/Images Library/Veilleurs d'Orcre.jpg",
     "Société/Images Library/Rukh-Tarr.jpg",
     "Société/Clans du Dhar'Zulun/Rukh-Tarr.jpg",
     "Société/Rukh-Tarr.jpg",
     "Société/Non confirmé 837577.crdownload",
-    "Dates/03-01.md",
-    "PNJ/Varlag.md",
     "PNJ/Images Library/Varlag.jpg",
     "PNJ/Varlag.jpg",
     "PNJ/Non confirmé 934244.crdownload",
-    "Dates/Guerre des Sables.md",
-    "Géographie/Dhar'Zulun/Faille d'Ocre.md",
-    "à trier/Glossaire.md",
     "Géographie/Images Library/Faille d'Ocre.jpg",
     "Géographie/Images Library/Non confirmé 969575.crdownload",
-    "Société/Clans du Dhar'Zulun/Veilleurs d'Orcre.jpg",
     "Société/Clans du Dhar'Zulun/Non confirmé 260368.crdownload",
-    "PJ/Kyr'Dharûn.md",
-    "Dates/32-07-403.md",
-    "Archives/02-Anciens fichiers avant gpt/Histoire/Calendrier des Ciels Jumelés 28f5bd28250b80b5b58ef73dd4764ee8.md",
-    "PJ/Images Library/desktop.ini",
-    "Géographie/Sylve d'Aerwyn/Mirenfeld/Creux de l'Anserah/desktop.ini",
-    "gemini-scribe/Skills/desktop.ini",
-    "Bestiaire/desktop.ini",
-    "Géographie/Vhalarion/Périphérie de Vhalarion Prime/desktop.ini",
-    "PNJ/Images Library/Grushnak des Ertuk.jpg",
-    "Druan Silme.md",
-    "PNJ/Azimuth Sarvolan.md",
-    "Templates/PNJ.md",
-    "Objets/Griffe-du-Serment.md",
-    "Société/Cercles druidiques/Cercle de Lir.md",
-    "A faire.md",
-    "Divinités/Lir - Esprit du Souffle.md",
-    "Objets/médaillon de l'Ordre du Souffle.md",
-    "Templates/Objets.md",
     "Sans titre.canvas",
     "Sans titre 1.canvas"
   ]

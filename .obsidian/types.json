@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "location": "text",
-    "date": "text"
+    "date": "text",
+    "lieu": "text"
   }
 }

@@ -3,7 +3,7 @@ type: PNJ
 statut: Vivant
 faction: Ertuk
 fonction: Chef de Clan
-lieu: Géographie/Dhar'Zulun/Dhar'Zulun
+lieu: Géographie/Dhar'Zulun/Dunes Centrales
 alignement: LM
 race: Orc
 classe:
@@ -103,5 +103,4 @@ SORT file.name DESC
 - **Alliance** : les PJ ne gagnent pas sa confiance par un discours, mais par un **acte qui coûte** — payer une dette à sa place, sauver un Ertuk, ou livrer un Zarka. Il faut que le Prix du Sang bouge.
 
 ### Liens out:
-`$= dv.fileLink(dv.current().faction)`
-`$= dv.fileLink(dv.current().lieu)`
+

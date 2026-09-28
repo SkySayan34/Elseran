@@ -1,22 +1,23 @@
 ---
 type: lieu
-nom: Akhzir
-categorie: location
+nom: Dunes Centrales
+categorie: sous_region
 lieu_parent: Dhar'Zulun
-securite: Normale
-date_creation: 2026-08-11
+securite: Dangereux
+tags: lieu
 ---
 
-# Akhzir
+# Dunes Centrales
 
 > [!infobox]+ carte
 > ![[carte_placeholder.jpg|cover]]
 > ###### Repères
 > | | |
 > | --- | --- |
-> | **Catégorie** | `= this.categorie ` |
-> | **Se trouve dans** | `= link(this.lieu_parent) ` |
-> | **Sécurité** | `= this.securite ` |
+> | **Catégorie** | `$= dv.current().categorie` |
+> | **Se trouve dans** | `$= dv.fileLink(dv.current().lieu_parent)` |
+> | **Sécurité** | `$= dv.current().securite` |
+
 
 
 ```leaflet
@@ -36,7 +37,7 @@ darkMode: false
 ##  Description générale
 *(Écris ici l'ambiance visuelle, l'architecture, le climat ou la première impression des joueurs en arrivant)*
 
-- Cette ville est un amas de ruine de ce qu'il reste de l'invasion de l'empire vhalarionnien.
+- Le cœur du Dhar'Zulun : l'océan de dunes où vivent les **clans nomades orcs**, les marchands itinérants et leurs pistes. C'est ici que bat le cœur du lore du désert — le [[Glossaire#Le Prix du Sang - Code des Clans Nomades du Dhar'Zulun|Prix du Sang]], les [[Veilleurs d'Ocre]] et leur QG de la Faille d'Ocre, les clans [[Ertuk]] et [[Zarka]] héritiers du schisme des **Mok'Tharak**, et la cité sédentaire Zarka de [[Mokh'Zar]].
 
 ##  Histoire & Lore
 *(Le passé de ce lieu, les événements marquants ou les secrets géographiques)*
@@ -48,7 +49,8 @@ darkMode: false
 
 ```dataview
 LIST
-where contains(type, "lieu") and contains(lieu_parent, this.file.name)
+FROM #lieu
+WHERE contains(lieu_parent, this.file.name)
 
 ```
 
@@ -59,6 +61,11 @@ where contains(type, "lieu") and contains(lieu_parent, this.file.name)
 
 ```dataview
 TABLE faction AS "Faction", description AS "Description"
-WHERE contains(list(lieu), this.file.name) and (contains(type, "PNJ") or contains(type, "PJ"))
+FROM #PNJ
+WHERE contains(list(lieu), this.file.name)
 SORT file.name ASC
 ```
+
+## Impact du jeu sur le lieu
+*(Raconter les éventuels changement qu'ont apportés les joueurs sur le lieu)*
+

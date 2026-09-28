@@ -3,7 +3,7 @@ type: PNJ
 statut: Mort
 faction: Rukh-Tarr
 fonction: Chef de Guerre
-lieu: Géographie/Dhar'Zulun/Dhar'Zulun
+lieu: Géographie/Dhar'Zulun/Dunes Centrales
 alignement: CN
 race: Orc
 classe: Barbare

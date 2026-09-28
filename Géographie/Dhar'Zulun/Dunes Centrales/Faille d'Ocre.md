@@ -2,7 +2,7 @@
 type: lieu
 nom: Faille d'Ocre
 categorie: location_precise
-lieu_parent: Dhar'Zulun
+lieu_parent: Dunes Centrales
 securite: Haute
 tags: lieu
 ---

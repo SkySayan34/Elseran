@@ -24,7 +24,7 @@ Contrairement aux clercs qui tirent leur pouvoir des Dieux, ou aux magiciens qui
 
 - **La Magie Primordiale :** Les druides puisent directement dans la force vitale du monde, émanation du Souffle de [[Sylméa - Déesse Fondatrice du Lien|Sylméa, la déesse de la Vie et du Lien]]. Ils ne font qu'un avec la volonté de la terre, des arbres et des animaux.
     
-- **Le Langage Secret : Le Druidique (_Druidic_) :** Une mécanique essentielle. C'est une langue secrète apprise lors de leur initiation. Un druide peut l'utiliser pour laisser des messages cachés dans la nature (des signes sur l'écorce, des pierres disposées d'une certaine façon) que seuls les autres druides peuvent repérer. _Partager cette langue avec un non-druide est le plus grand des sacrilèges._
+- **Le Langage Secret : Le Druidique (_Druidic_) :** Une mécanique essentielle. C'est une langue secrète apprise lors de leur initiation. Un druide peut l'utiliser pour laisser des messages cachés dans la nature (des signes sur l'écorce, des pierres disposées d'une certaine façon) que seuls les autres druides peuvent repérer.
     
 
 ## 3. Les Capacités Emblématiques (À lier au Lore)

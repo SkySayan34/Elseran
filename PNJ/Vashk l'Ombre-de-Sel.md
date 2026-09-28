@@ -3,12 +3,12 @@ type: PNJ
 statut: Vivant
 faction: Veilleurs d'Ocre
 fonction: Tourneur de Pages (chez les Ertuk)
-lieu: Géographie/Dhar'Zulun/Dhar'Zulun
+lieu: Géographie/Dhar'Zulun/Dunes Centrales
 alignement: LN
 race: Orc
 classe:
 genre: Homme
-description: Vénérable Veilleur d'Ocre à la peau blanche de sel, le seul orc vivant à avoir atteint la Mer de l'Est. Témoin du secret de Grushnak.
+description: Vénérable Veilleur d'Ocre à la peau blanche de sel, le seul orc vivant à avoir atteint la Mer de l'Ouest. Témoin du secret de Grushnak.
 tags: PNJ
 ---
 
@@ -27,7 +27,7 @@ tags: PNJ
 
 ##  Description & Psychologie
 
-* **Apparence :** Orc très âgé, desséché comme une racine de sel. Peau blanche d'os éclatant, craquelée de fines gerçures rosées — le sel de la Mer de l'Est l'a marqué à jamais, lui qui était gris-bronze comme les siens. Yeux noirs profonds et humides, le seul point vivant de son visage, qui regardent toujours un peu au-delà de son interlocuteur. Maigre et long, il marche appuyé sur un bâton de bois flotté — du bois de la Mer, sa relique et sa preuve. Robes ocre grossières des Veilleurs ceinturées de corde, chapelet de perles d'os très usées autour du cou. Aucun brand sur la peau : ses dettes sont acquittées par le service de la caste, sa plus grande fierté silencieuse.
+* **Apparence :** Orc très âgé, desséché comme une racine de sel. Peau blanche d'os éclatant, craquelée de fines gerçures rosées — le sel de la Mer de l'Ouest l'a marqué à jamais, lui qui était gris-bronze comme les siens. Yeux noirs profonds et humides, le seul point vivant de son visage, qui regardent toujours un peu au-delà de son interlocuteur. Maigre et long, il marche appuyé sur un bâton de bois flotté — du bois de la Mer, sa relique et sa preuve. Robes ocre grossières des Veilleurs ceinturées de corde, chapelet de perles d'os très usées autour du cou. Aucun brand sur la peau : ses dettes sont acquittées par le service de la caste, sa plus grande fierté silencieuse.
 
 * **Personnalité :** Contemplatif, lent, d'une douceur d'ermite — mais désertique : elle ne promet rien, elle donne juste à voir ce qui est. Parle peu, souvent en métaphores de voyage et d'eau (« une dette, c'est une soif ; on ne la fait pas disparaître, on ne choisit que ce qu'on boit »). Écoute plus qu'il ne juge, mais la rigueur de sa caste est en lui comme le sel dans sa peau : jamais il ne faussera un compte. Manies : lisse le bois flotté de son bâton pendant les conversations longues ; ferme les yeux quand on lui ment (il le sait toujours, il ne dit rien) ; répond aux questions pressées par une question plus lente.
 
