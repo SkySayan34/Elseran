@@ -28,39 +28,19 @@ WHERE type = "arc"
 SORT date_debut ASC
 ```
 
-## 👥 **Personnages Principaux**
+
+## **Quêtes en cours**
 
 ```dataview
-TABLE nom AS "Nom", faction AS "Faction", lieu AS "Localisation"
-FROM #PNJ OR "PNJ"
-WHERE contains(campaign, "Chant des Cendres")
-SORT file.name ASC
-LIMIT 10
-```
-
-## 🗺️ **Lieux Clés**
-
-```dataview
-TABLE nom AS "Nom", categorie AS "Type", parent AS "Région"
-FROM #lieu OR "Géographie"
-WHERE contains(campaign, "Chant des Cendres")
-SORT file.name ASC
-LIMIT 10
-```
-
-## 🏛️ **Factions en Jeu**
-
-```dataview
-TABLE nom AS "Nom", type_société AS "Type", dirigeant AS "Dirigeant"
-FROM #société OR "Société"
-WHERE contains(campaign, "Chant des Cendres")
-SORT file.name ASC
+TABLE description AS "Description", arc AS "Arc", statut AS "Statut", priorité AS "Priorité"
+FROM #quête
+WHERE contains(campagne, this.file.name) and statut != "Terminé" 
 ```
 
 ## 📅 **Sessions Récentes**
 
 ```dataview
-TABLE date AS "Date", game_date AS "Date In-Game", location AS "Lieu"
+TABLE date AS "Date", location AS "Lieu"
 FROM "Chant des Cendres/Sessions"
 WHERE type = "session"
 SORT date DESC

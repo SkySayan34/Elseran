@@ -8,6 +8,8 @@ symbole:
 lieu_de_culte: Cercle de Lir
 statut: Actif
 tags: divinité
+aliases:
+  - Lir
 ---
 
 # ✨ Lir - Esprit du Souffle

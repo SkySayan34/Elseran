@@ -4,7 +4,7 @@ nom: Sœur Sophie
 statut: Mort
 faction: "[[Ordre Impérial de la Lumière]]"
 fonction: Soeur
-lieu: "[[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]"
+lieu: "[[Mirenfeld]]"
 alignement: LM
 race: humaine
 classe: clerc

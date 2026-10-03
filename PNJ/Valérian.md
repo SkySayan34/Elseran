@@ -4,7 +4,7 @@ nom: Valérian
 statut: Vivant
 faction:
 fonction: Tenancier de l'[[Auberge des Abysses]]
-lieu: "[[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]"
+lieu: "[[Mirenfeld]]"
 alignement: N
 race: demi elfe
 classe:

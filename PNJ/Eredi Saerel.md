@@ -4,7 +4,7 @@ nom: Eredi Saerel
 statut: Vivant
 faction: "[[Ordre du Souffle]] ; [[Ordre des Scribes]]"
 groupe: Scribe
-lieu: "[[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]"
+lieu: "[[Mirenfeld]]"
 alignement: LB
 race: humain
 classe:

@@ -4,7 +4,7 @@ nom: A Mirenfeld
 campagne: Chant des Cendres
 description: Les aventuriers arrivent à [[Mirenfeld]] où ils rencontreront l'[[Ordre du Souffle]]. Ils accomplissent quelques quêtes ici et découvrent l'histoire de la ville avant de repartir vers d'autres lieux
 statut: En cours
-date: 32-07-403
+date: 36-07-403
 ---
 
 # 🌌 A Mirenfeld

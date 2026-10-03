@@ -63,8 +63,51 @@
       ]
     },
     {
+      "id": "leaflet-map-${title}",
+      "lastAccessed": 1790986125416,
+      "markers": [
+        {
+          "id": "ID_b9f8aa79fab8",
+          "type": "default",
+          "loc": [
+            -1.00634765625,
+            0.435546875
+          ],
+          "layer": "%5B%5Bcarte_placeholder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_693beac8bb09",
+          "type": "default",
+          "loc": [
+            -0.59228515625,
+            0.47265625
+          ],
+          "layer": "%5B%5Bcarte_placeholder.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Géographie/Sylve d'Aerwyn/Frondains/Mirenfeld/Croisée des Chemins/Auberge du Chêne Vert.md"
+      ]
+    },
+    {
       "id": "leaflet-map-mirenfeld",
-      "lastAccessed": 1789594773397,
+      "lastAccessed": 1790988048892,
       "markers": [
         {
           "id": "ID_2ad9281b0a49",
@@ -311,7 +354,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld.md"
+        "Géographie/Sylve d'Aerwyn/Frondains/Mirenfeld.md"
       ]
     }
   ],

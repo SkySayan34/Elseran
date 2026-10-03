@@ -266,6 +266,79 @@
             "month": 0,
             "year": 289
           }
+        },
+        {
+          "name": "Session 01 - Danse Macabre",
+          "description": null,
+          "date": {
+            "day": 37,
+            "month": 6,
+            "year": 403
+          },
+          "id": "ID_0b2b4848c93b",
+          "note": "Chant des Cendres/Sessions/Session 01 - Danse Macabre.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arrivée de Vox Cineris à Mirenfeld",
+          "description": "",
+          "date": {
+            "day": 36,
+            "month": 6,
+            "year": 403
+          },
+          "id": "ID_098acbb8c918",
+          "note": "PJ/Vox Cineris.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Fantômes de Mirenfeld",
+          "description": null,
+          "date": {
+            "day": 38,
+            "month": 6,
+            "year": 403
+          },
+          "id": "ID_7a49ca0a3928",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "day": 39,
+            "month": 6,
+            "year": 403
+          }
+        },
+        {
+          "name": "Plaider Coupable",
+          "description": null,
+          "date": {
+            "day": 40,
+            "month": 6,
+            "year": 403
+          },
+          "id": "ID_8ae83a295a58",
+          "note": "Chant des Cendres/Chapitres/Plaider Coupable.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "categories": [],

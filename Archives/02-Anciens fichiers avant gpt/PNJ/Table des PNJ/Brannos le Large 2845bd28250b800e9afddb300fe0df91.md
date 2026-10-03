@@ -1,8 +1,8 @@
 # Brannos le Large
 
-Appartenance: Conseil de [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]
+Appartenance: Conseil de [[Mirenfeld]]
 Fonction: Porteur des Marches,Chef du commerce et des routes
-Lieu: Frondains, [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], [[Sylve d'Aerwyn]]
+Lieu: Frondains, [[Mirenfeld]], [[Sylve d'Aerwyn]]
 Race: Halfelin
 État: Vivant.e
 
@@ -13,7 +13,7 @@ Race: Halfelin
 - **Alignement** : Neutre
 - **Fonction officielle** : Chef du commerce et des routes
 - **Titre** : *Porteur des Marches*
-- **Siège** : Conseil de [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]
+- **Siège** : Conseil de [[Mirenfeld]]
 - **Région** : Frondains — Sylve d’Aerwyn
 
 ![image.png](Brannos%20le%20Large/image.png)
@@ -25,7 +25,7 @@ Race: Halfelin
 - Arbalète légère + 20 carreaux
 - Anneau de fonction du Conseil
 - Registres commerciaux
-- Sceau de [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]
+- Sceau de [[Mirenfeld]]
 - Bourse bien garnie
 
 ---

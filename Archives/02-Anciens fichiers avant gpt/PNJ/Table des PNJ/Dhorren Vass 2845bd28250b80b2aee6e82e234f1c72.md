@@ -1,8 +1,8 @@
 # Dhorren Vass
 
-Appartenance: Conseil de [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]]
+Appartenance: Conseil de [[Mirenfeld]]
 Fonction: Responsable de la sécurité urbaine
-Lieu: Frondains, [[Géographie/Sylve d'Aerwyn/Mirenfeld/Mirenfeld]], [[Sylve d'Aerwyn]]
+Lieu: Frondains, [[Mirenfeld]], [[Sylve d'Aerwyn]]
 Race: Humain
 État: Vivant.e
 
